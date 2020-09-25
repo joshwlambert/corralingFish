@@ -102,9 +102,11 @@ reef_scom <- reef_scom_data$species_SFTEP
 #however, created trimmed vectors with these values, in case they will be useful later
 
 all_serran <- unlist(all_fam[["Serranidae"]])
+all_serran <- gsub(" ", "_", all_serran)
 mol_phy_all_serran <- fishtree_phylogeny(species = all_serran)
 #only pulls out 218 species of 549
 trimmed_serran <- mol_phy_all_serran[["tip.label"]]
+all_serran %in% trimmed_serran
 
 all_carran <- unlist(all_fam[["Carangidae"]])
 mol_phy_all_caran <- fishtree_phylogeny(species = all_carran)
@@ -137,9 +139,11 @@ mol_phy_all_haem <- fishtree_phylogeny(species = all_haem)
 trimmed_haem <- mol_phy_all_haem[["tip.label"]]
 
 all_poma <- unlist(all_fam[["Pomacentridae"]])
+all_poma <- gsub(" ", "_", all_poma)
 mol_phy_all_poma <- fishtree_phylogeny(species = all_poma)
 #only pulls 222 of 400 species
 trimmed_poma <- mol_phy_all_poma[["tip.label"]]
+all_poma %in% trimmed_poma
 
 all_tetra <- unlist(all_fam[["Tetraodontidae"]])
 mol_phy_all_tetra <- fishtree_phylogeny(species = all_tetra)
