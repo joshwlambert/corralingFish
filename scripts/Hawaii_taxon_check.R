@@ -18,7 +18,7 @@ library(dplyr)
 Hawaii_NOAA_fish_data <-
   read.csv("~/Desktop/S3/corralingfish/trimmed_NOAA_taxa.csv")
 
-#isolate taxon list and prune to only uniqe hits
+#isolate taxon list and prune to only unique hits
 taxon_list <- Hawaii_NOAA_fish_data$Taxa
 # taxon_list <- data.frame(unique(taxon_hits))
 View(taxon_list)
@@ -84,4 +84,6 @@ for (i in all_trimmed_trimmed_genus_list) {
 
 NOAA_endemics <- Hawaii_NOAA_fish_data %>%
   filter(Endemic_Revised == 1)
+
+NOAA_trimmed_endemics <-
 
