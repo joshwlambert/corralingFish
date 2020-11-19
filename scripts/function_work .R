@@ -109,7 +109,7 @@ get_islandClade_ages <- function(tree, df_species_status, island_MaxAge){
 
           if(species_brancingtimes != secondary_species){
             #append (rbind) new row with
-              #("clade_name", endemic, branching time)
+              #("species_name", endemic, branching time)
           }
 
 
