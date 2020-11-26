@@ -62,9 +62,16 @@ get_islandClade_ages <- function(tree, df_species_endemicty, island_MaxAge){
 df_species_status %>% group_by(endemicity)
 ######go through the nonendemic species first
   if(df_species_status$endemicity == 0){
-    #match spcies from df_species_status to tree
-    CT <-get_leaf_age(tree, df_species_status$species)
+    #match spcies from df_species_status to tree, to have as clade name
+    #for assingment later.
+    CT <- data.frame(taxa = character(0),
+                     bt = numeric,
+                     stringsAsFactors = FALSE)
+    cbind(df_species_status$Taxa)
+
     #pull closest node (see luis's code) and label as CT = colonization time
+    CT[,2] <-get_leaf_age(tree, CT[,1]) #this is the single species
+      #code from Luis, could input this int
     #compare CT of taxa to island_MaxAge
       if(CT <= island_MaxAge){
         #append (rbind) new row with ("clade_name", nonendemic, CT)
