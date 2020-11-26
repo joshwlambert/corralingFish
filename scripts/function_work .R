@@ -3,6 +3,7 @@
 library(fishtree)
 library(ape)
 library(phytools)
+library(dplyr)
 library(stringr) ## don't really know what this does yet, but was in Luis's code
 
 
@@ -46,18 +47,23 @@ island_MaxAge <- 28.0
 #million years ago (Grigg 1997; Rooney et al., 2008; Friedlander et al., 2020)
 
 ##################################
+
+#would it be smarter to split up the dataframe into to different things,
+#such as species and endemicity vectors?
 ######start the function
-get_islandClade_ages <- function(tree, df_species_status, island_MaxAge){
+get_islandClade_ages <- function(tree, df_species_endemicty, island_MaxAge){
 
   #create empty dataframe for output?
   island_datatable <- data.frame(clade_name = character(0),
                                  status = character(0),
                                  brancing_times = numeric(0),
                                  stringsAsFactors = FALSE)
-
+  #create empty lists?
+df_species_status %>% group_by(endemicity)
 ######go through the nonendemic species first
-  if(df_species_status$Endemicity == 0){
+  if(df_species_status$endemicity == 0){
     #match spcies from df_species_status to tree
+    CT <-get_leaf_age(tree, df_species_status$species)
     #pull closest node (see luis's code) and label as CT = colonization time
     #compare CT of taxa to island_MaxAge
       if(CT <= island_MaxAge){
@@ -68,11 +74,11 @@ get_islandClade_ages <- function(tree, df_species_status, island_MaxAge){
       }
   }
 ########start to go through the endemic species that are left!
-  else(df_species_status$Endemicity == 1){
+  if else(df_species_status$Endemicity == 1){
     #for all species == 1, match species names to phylo
     #pull most recent node +/or edges from matrix from the phylo
     #create a "middle man" vector to this in
-    middleman <- vector() #in order of node age and species
+    #middleman <- vector() #in order of node age and species
 
 #this will be starting point for endemic decision making, based on a vector
 #with species_names and closest branching time for all of them, descending order
@@ -115,9 +121,13 @@ get_islandClade_ages <- function(tree, df_species_status, island_MaxAge){
 
       }
   }
+  else(df_species_status$missing == 1){
+  }
 
 }
-return(
+}
+
+
 
 
 
