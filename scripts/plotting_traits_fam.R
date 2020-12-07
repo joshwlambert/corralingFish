@@ -23,7 +23,7 @@ family_list <- c("Serranidae", "Carangidae", "Muraenidae", "Labridae", "Exocoeti
                   "Tetraodontidae", "Ophichthidae", "Scombridae")
 
 all_fam <- list()
-for(i in family_list) {
+for (i in family_list) {
 all_fam[[i]] <- rfishbase::species_list(Family = i)
 }
 
@@ -32,7 +32,7 @@ all_fam[[i]] <- rfishbase::species_list(Family = i)
 # gala_reef_data <- ls()
 # gala_reef <- ls()
 #
-# for(i in family_list){
+# for (i in family_list){
 #   gala_reef_data[[i]] <- reef_fish_data[which(reef_fish_data$Family == i,]
 #   gala_reef[[i]] <- gala_reef_data[[i]]$species_SFTEP
 # }
@@ -44,6 +44,9 @@ all_fam[[i]] <- rfishbase::species_list(Family = i)
 serran_data <- reef_fish_data[which(reef_fish_data$Family == "Serranidae"), ]
 reef_serran_data <- serran_data[which(serran_data$Reef_associated == 1 ),]
 reef_serran <- reef_serran_data$species_SFTEP
+
+endemic_serran_data <- serran_data[which(serran_data$Galapagos_Only == 1),]
+endemic_serran <- endemic_serran_data$species_SFTEP
 
 #carangidae
 caran_data <- reef_fish_data[which(reef_fish_data$Family == "Carangidae"), ]
