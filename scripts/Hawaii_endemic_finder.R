@@ -9,7 +9,7 @@
 NOAA <- read.csv("./Friedlander_data/Hawaii_NOAA_fish_data.csv")
 sample_points = distinct(NOAA, Lat, Long, Island, Region)
   #get data
-states = sf::st_read("ne_50m_admin_1_states_provinces/")
+states = sf::st_read("./geo_needs/ne_50m_admin_1_states_provinces/")
 hwi = dplyr::filter(states, name_id == "Hawaii")
   # make sample points sf
 sample_points_sf = sf::st_as_sf(sample_points,
@@ -27,6 +27,7 @@ sample_pts_utm = st_combine(sample_pts_utm)
 boun_box <- st_bbox(sample_points_sf)
   #plot with all sampling points and boundary box
 ggplot()+
+  geom_sf(data = hwi, colour = "black") +
   geom_sf(data = sample_points_sf,
           colour = "red",
           size = 0.2)+
@@ -37,7 +38,7 @@ ggplot()+
 #try with two different lists: molecular tree list and non-molecular tree list
 fish_data <- read.csv("./trimmed_NOAA_taxa.csv")
 
-molecular_fish <- fish_data %>% filter(molecular_data == 1) %>%
+molecular_fish <- fish_data %>% filter(molec_data == 1) %>%
     select(Taxa)
 all_fish <- fish_data %>% select(Taxa)
 
@@ -45,4 +46,4 @@ all_fish <- fish_data %>% select(Taxa)
 install.packages("rgdal")
 library(rgdal)
 
-fish <- readOGR(dsn = "actino", layer = "data_0")
+#fish <- readOGR(dsn = "actino", layer = "data_0")
