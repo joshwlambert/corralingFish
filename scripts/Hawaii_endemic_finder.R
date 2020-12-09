@@ -41,4 +41,8 @@ molecular_fish <- fish_data %>% filter(molecular_data == 1) %>%
     select(Taxa)
 all_fish <- fish_data %>% select(Taxa)
 
-#download in actinopetrygian range data
+#download in actinopetrygian range data from IUCN
+install.packages("rgdal")
+library(rgdal)
+
+fish <- readOGR(dsn = "actino", layer = "data_0")
