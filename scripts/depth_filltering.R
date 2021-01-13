@@ -28,16 +28,27 @@ shapefiles_data <- fish_data %>% filter(iucn_shapefile ==1)
 
 #create output list for multiple species
 output_seach<- list()
-for(i in molecular_shapefiles$Taxa){
+depth_range <- data.frame()
+for(i in molecular_shapefiles$iucn_names){
 output_seach[[i]] <- rredlist::rl_search(i)
 
-#extract depth ranges and input into new dataframe
-depth_range <- c(
-  "depth_upper" = as.numeric(search_output$result["depth_upper"]),
-  "depth_lower" = as.numeric(search_output$result["depth_lower"])
-)
+#population  new df
+  #create row data
+  iucn_name <- as.character(i)
+  depth_upper <- as.numeric(unlist(output_seach[[i]][["result"]]["depth_upper"]))
+  depth_lower <-as.numeric(unlist(output_seach[[i]][["result"]]["depth_lower"]))
 
-depth_range
+  #create the new row
+  new.row <- data.frame(iucn_names = iucn_name,
+                        depth_upper = depth_upper, depth_lower = depth_lower)
+  #bind to beginning dataframe
+  depth_range<- rbind(depth_range, new.row)
 }
+
+
 #combine depth range dataframe with input dataframe to create new reference
+fishes_df <- data.frame()
+fishes_df <- merge(fish_data, depth_range)
+
+write.csv(fishes_df, "depth_trimmed_molecular_taxa.csv")
 #!!!!!!!!!!!!!!!!!!!!!!!!some names with not translate, fucking taxonomy!!!!!!
