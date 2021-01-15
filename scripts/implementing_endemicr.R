@@ -48,7 +48,7 @@ plot(hawaii_regions$demarcation_areas,
      add = T)
 
 # 3 load in csv data to pull fish names from
-fish_data <- read.csv("./depth_trimmed_molecular_taxa.csv")
+fish_data <- read.csv("../depth_trimmed_molecular_taxa.csv")
 View(fish_data)
 
 ###### choose 3.1 if working with trimmed_NOAA_taxa.csv; choose 3.2 if using a
@@ -61,7 +61,7 @@ molecular_shapefiles <- fish_data %>% filter(iucn_shapefile == 1,
                                              molecular_data == 1)
 shapefiles_data <- fish_data %>% filter(iucn_shapefile ==1)
 
-#3.2 filtering for depth; shallow/mesophotic reefs (0-150m)
+#3.2 filtering for depth; shallow/mesophotic reef fish (0-150m)
 
 SM_fishes <- fish_data %>% filter(depth_upper <= 150)
 
@@ -71,28 +71,33 @@ SM_fishes <- fish_data %>% filter(depth_upper <= 150)
 ## ex: i = Acanthurus_blochii instead of ./shapefiles/Acanthururus_blochii/data_0.shp
 # proportionof the global range in each area of hawaii
 #4.1 assign the filtered dataset you want to use to fishes vector for downstream
-fishes <- molecular_shapefiles$Taxa
+fishes <- SM_fishes$Taxa
 
 # Prep data from endemic r
 #extract .shp files for all the fish
-fis <- vector()
+#fis <- vector()
 range_in_hawaii <- list()
-for(i in fishes){
-  species_folder <- file.path("./fish_shapefiles",i , "data_0.shp")
-  fis <- c(fis, species_folder)
-}
+# for(i in fishes){
+#   species_folder <- file.path("./fish_shapefiles",i , "data_0.shp")
+#   fis <- c(fis, species_folder)
+# }
 
-for(i in fis){
+for(i in fishes){
 range_in_hawaii[[i]] <- check_endemic_hawaii(
   hawaii_land_features = hawaii_boundaries,
+  region_demarcation_points = list(
+    main_islands = c(-160.1, 21.8),
+    nwhi = c(-161.9, 23)),
   buffer_distance_km = 50,
-  species_range = i)
+  species_range = file.path("./fish_shapefiles",i , "data_0.shp"))
 # print this
 print(i)
 }
 
 #flatten list to create a single dataframe
-
+df_hawaii_range <- data.frame(matrix(unlist(range_in_hawaii),
+                                     nrow= length(range_in_hawaii),
+                                     byrow=T, ncol = 3),stringsAsFactors=FALSE)
 #use histogram to visualize data
 
 #find correct level of p_range to delineate endemic vs. nonendemic
