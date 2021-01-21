@@ -48,7 +48,7 @@ plot(hawaii_regions$demarcation_areas,
      add = T)
 
 # 3 load in csv data to pull fish names from
-fish_data <- read.csv("../depth_trimmed_molecular_taxa.csv")
+fish_data <- read.csv("../depth_trimmed_taxa.csv")
 View(fish_data)
 
 ###### choose 3.1 if working with trimmed_NOAA_taxa.csv; choose 3.2 if using a
@@ -57,14 +57,19 @@ View(fish_data)
 
 #3.1.create fish lists to pull from based on iucn_shapefile, molecular_data
 molecular_data <- fish_data %>% filter(molecular_data == 1)
-molecular_shapefiles <- fish_data %>% filter(iucn_shapefile == 1,
-                                             molecular_data == 1)
-shapefiles_data <- fish_data %>% filter(iucn_shapefile ==1)
+# molecular_shapefiles <- fish_data %>% filter(iucn_shapefile == 1,
+#                                              molecular_data == 1)
+# shapefiles_data <- fish_data %>% filter(iucn_shapefile ==1)
 
 #3.2 filtering for depth; shallow/mesophotic reef fish (0-150m)
 
-SM_fishes <- fish_data %>% filter(depth_upper <= 150)
+SM_fishes <- fish_data %>% filter(depth_lower <= 150)
 
+write.csv(SM_fishes, "./shalmeso_shapefile_fish.csv")
+
+molecular_data <- SM_fishes%>% filter(molecular_data == 1)
+
+write.csv(molecular_data , "./shalmeso_molec_shapefile_fish.csv")
 
 ### 4. Get _p_(global range) in each area
 #combine earlier steps to create file_path with this so
@@ -88,16 +93,61 @@ range_in_hawaii[[i]] <- check_endemic_hawaii(
   region_demarcation_points = list(
     main_islands = c(-160.1, 21.8),
     nwhi = c(-161.9, 23)),
-  buffer_distance_km = 50,
+  buffer_distance_km = 150,
   species_range = file.path("./fish_shapefiles",i , "data_0.shp"))
 # print this
 print(i)
 }
 
+
 #flatten list to create a single dataframe
-df_hawaii_range <- data.frame(matrix(unlist(range_in_hawaii),
-                                     nrow= length(range_in_hawaii),
-                                     byrow=T, ncol = 3),stringsAsFactors=FALSE)
+# df_hawaii_range <- data.frame(matrix(unlist(range_in_hawaii),
+#                                      nrow= length(range_in_hawaii),
+#                                      byrow=T, ncol = 3),stringsAsFactors=FALSE)
+
+install.packages("tidyverse")
+library(tidyverse)
+
+df_hawaii_range_150 <- bind_rows(range_in_hawaii, .id = "id")
+#save as a csv file, as it will be easier to manipulate in excel
+write.csv(df_hawaii_range, "../shapefile_ranges_150kbuff.csv")
+
+write.csv(df_hawaii_range, "../shapefile_150_depth.csv")
 #use histogram to visualize data
 
+onefiveoh <- read.csv("../shapefile_ranges_150kbuff.csv")
+onefiveoh <- onefiveoh[-c(200:408),]
+
 #find correct level of p_range to delineate endemic vs. nonendemic
+
+first_places <- ggplot(onefiveoh, aes(onefiveoh$total)) +
+  geom_histogram(binwidth = 0.02)
+
+first_mean <- ggplot(onefiveoh, aes(onefiveoh$total)) +
+  geom_histogram(binwidth = 0.02) +
+  geom_vline(aes(xintercept = mean(onefiveoh$total)), color = "blue",
+             linetype = "dashed") +
+  labs(title = "Total proportion range of fishes",
+       x = "total proportion range")+
+  geom_text(x = mean(onefiveoh$total), y = 0,
+            label = "mean proportion range", vjust = -10, hjust = -0.1)
+
+first_mean_limited <- ggplot(onefiveoh, aes(onefiveoh$total)) +
+  geom_histogram(binwidth = 0.02) +
+  geom_vline(aes(xintercept = mean(onefiveoh$total)), color = "blue",
+             linetype = "dashed") +
+  labs(title = "Total proportion range of fishes",
+       x = "total proportion range")+
+  geom_text(x = mean(onefiveoh$total), y = 0,
+            label = "mean proportion range", vjust = -10, hjust = -0.1) +
+  coord_cartesian(xlim = c(-0.1, 1))
+
+
+
+#for the hundred k plots
+
+View(hundredK_plot)
+View(meanhundredK_plot)
+View(thinner_hundred)
+
+
