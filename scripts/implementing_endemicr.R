@@ -130,6 +130,23 @@ all_ranges_depths <- all_ranges_depths %>% mutate(endemicity =
                                                     case_when(total_prange >= 0.75 ~ 1,
                                                               total_prange <= 0.75 ~ 0))
 
+og_fishdata <- read.csv("../datasets/trimmed_NOAA_taxa_extra.csv")
+all_fishdata <- merge(og_dataset, all_ranges_depths, all = TRUE)
+all_fishdata <- all_fishdata[,-8]
+
+all_fishdata_missing <- all_fishdata %>%
+  mutate(missing_species =
+           case_when(endemicity == NA ~ 1,
+                     endemicity == 1 ~ 0,
+                     endemicity == 0 ~ 0))
+all_fishdata_missing$missing_species[is.na(all_fishdata_missing$missing_species)] <- 1
+
+write.csv(all_fishdata_missing, "../datasets/full_dataset_wmissingsp.csv")
+#check that there are no... repeats from the process???                                                                                                                           total_prange <= 0.75 ~ 0))
+n_occur <- data.frame(table(all_ranges_depths$Taxa))
+n_occur[n_occur$Freq > 1,]
+
+write.csv(all_ranges_depths, "../datasets/depth_trimmed_taxa_29012021.csv")
 
 #find correct level of p_range to delineate endemic vs. nonendemic
 
