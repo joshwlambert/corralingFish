@@ -48,7 +48,7 @@ plot(hawaii_regions$demarcation_areas,
      add = T)
 
 # 3 load in csv data to pull fish names from
-fish_data <- read.csv("../depth_trimmed_taxa.csv")
+fish_data <- read.csv("../datasets/depth_trimmed_taxa.csv")
 View(fish_data)
 
 ###### choose 3.1 if working with trimmed_NOAA_taxa.csv; choose 3.2 if using a
@@ -109,27 +109,40 @@ install.packages("tidyverse")
 library(tidyverse)
 
 df_hawaii_range_150 <- bind_rows(range_in_hawaii, .id = "id")
-#save as a csv file, as it will be easier to manipulate in excel
-write.csv(df_hawaii_range, "../shapefile_ranges_150kbuff.csv")
 
-write.csv(df_hawaii_range, "../shapefile_150_depth.csv")
-#use histogram to visualize data
+nwhi <- data.frame()
+nwhi <- df_hawaii_range_150 %>% filter(region == "nwhi")
+nwhi <- nwhi[,-2]
+names(nwhi)[2] <- "nwhi"
 
-onefiveoh <- read.csv("../shapefile_ranges_150kbuff.csv")
-onefiveoh <- onefiveoh[-c(200:408),]
+mhi <- data.frame()
+mhi <- df_hawaii_range_150 %>% filter(region == "main_islands")
+mhi <- mhi[,-2]
+names(mhi)[2] <- "main_islands"
+
+ranges <- merge(nwhi, mhi, all = TRUE)
+ranges[is.na(ranges)] <- 0
+ranges <- ranges %>% mutate(total_prange = nwhi + main_islands)
+names(ranges)[1] <- "Taxa"
+
+all_ranges_depths <- merge(fish_data, ranges, all  = TRUE)
+all_ranges_depths <- all_ranges_depths %>% mutate(endemicity =
+                                                    case_when(total_prange >= 0.75 ~ 1,
+                                                              total_prange <= 0.75 ~ 0))
+
 
 #find correct level of p_range to delineate endemic vs. nonendemic
 
-first_places <- ggplot(onefiveoh, aes(onefiveoh$total)) +
+first_places <- ggplot(ranges, aes(total_prange)) +
   geom_histogram(binwidth = 0.02)
 
-first_mean <- ggplot(onefiveoh, aes(onefiveoh$total)) +
+first_mean <- ggplot(ranges, aes(total_prange)) +
   geom_histogram(binwidth = 0.02) +
-  geom_vline(aes(xintercept = mean(onefiveoh$total)), color = "blue",
+  geom_vline(aes(xintercept = mean(ranges$total_prange)), color = "blue",
              linetype = "dashed") +
   labs(title = "Total proportion range of fishes",
        x = "total proportion range")+
-  geom_text(x = mean(onefiveoh$total), y = 0,
+  geom_text(x = mean(ranges$total_prange), y = 0,
             label = "mean proportion range", vjust = -10, hjust = -0.1)
 
 first_mean_limited <- ggplot(onefiveoh, aes(onefiveoh$total)) +
@@ -149,5 +162,8 @@ first_mean_limited <- ggplot(onefiveoh, aes(onefiveoh$total)) +
 View(hundredK_plot)
 View(meanhundredK_plot)
 View(thinner_hundred)
+
+
+
 
 
