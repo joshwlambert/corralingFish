@@ -1,7 +1,7 @@
 
 #loading in beginning cladeR stuff
-View(g2)
-View(clades_data)
+View(g2) # the tree with attached data
+View(clades_data) #loaded taxa with attached endemicity status
 island_max_Age <- 28.000000
 View( island_max_Age)
 
@@ -24,7 +24,7 @@ taxa_id <- c()
   #if siblings are a tip or not. Internal nodes == FALSE, terminal nodes == TRUE
 for(i in 1:length(end_nodes)){
  checking_taxa[i] <- siblings(g2, end_nodes[i])
-  taxa_id[i] <- checking_taxa[i] %in% tip_ids
+  taxa_id[i] <- checking_taxa[i] %in% tip_ids #is the id a tip?
 }
 
 #changing labels of TRUE/FALSE to tip/internal, creating dataframe of vectors,
@@ -46,27 +46,43 @@ tip_nodes <- sibling_taxa %>% rownames_to_column("endemic_taxa") %>%
 tip_nodes$sibling_nodes <- as.integer(tip_nodes$sibling_nodes)
 
 
+
 #for loop creates two lists,
 inner <- list()
+inner_child <- list ()
+inner_all <- list()
 tips <- list ()
 #full_list <- list()
 for(i in 1:nrow(internal_nodes)){
-  inner[[internal_nodes[i,1]]] <- descendants(g2, internal_nodes[i,2], type = "all") #using all produces more descendants
-  tips[[internal_nodes[i,1]]] <- tipdf[names(inner[[i]]),] #internal nodes still go through this and show up as NA
-  }
+  inner_child[[internal_nodes[i,1]]] <- descendants(g2, internal_nodes[i,2], type = "children") #using all produces more descendants
+    #check and endemics that only have internal node siblings. If this is the case
+    # create sublist that runs descendants all to get the next level of descendants
+      if(all(is.na(names(inner_child[[i]][])))){
+          inner_all[[i]] <- descendants(g2, internal_nodes[i,2], type = "all")
+            #if there are values, create an if statement to overwrite above list value
+            #do this outside of the for loop?????
+           if(!is.null(inner_all[[i]])){
+            inner_child[[i]] <- inner_all[[i]]
+          }
+      }
+  #tips[[internal_nodes[i,1]]] <- tipdf[names(inner[[i]]),] #internal nodes still go through this and show up as NA
+}
+\
+#create a new for loop, that runs through the finall list, to find the endemicity statuses.
+tips[[internal_nodes[i,1]]] <- tipdf[names(inner[[i]]),] #internal nodes still go through this and show up as NA
 # full_list <- list(inner)
 # full_list <- append(full_list, list(tips))
 
 #do things for the internal nodes
 inner <- list()
 tips <- list ()
-for(i in length(1:interal_nodes$sibling_nodes)){
-inner[[i]] <- descendants(g2, internal_nodes[i,2])
-tips[[i]] <- tipdf[names(inner),]
+# for(i in length(1:interal_nodes$sibling_nodes)){
+# inner[[i]] <- descendants(g2, internal_nodes[i,2])    <----------- This code is being workshopped above lines 50-70
+# tips[[i]] <- tipdf[names(inner),]
 if(all(!is.na(tips)) && all(tips != 0)){
   clade <- c()
   for(j in 1:length(inner)){
-  clade[j] <- stringr::str_c(intenal_nodes[i,1] , names(inner[j]), sep = " , ") ###### this needs to be fixed
+  clade <- stringr::str_c(intenal_nodes[i,1] , names(inner[j]), sep = " , ") ###### this needs to be fixed
   bt <- get_leaf(phy4object = g2, leaf_name = j)                                ###### this needs to be fixed
 
   df_newrow <- data.frame(Taxa = clade, branching_time = bt)
