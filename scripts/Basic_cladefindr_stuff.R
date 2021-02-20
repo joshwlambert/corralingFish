@@ -92,16 +92,8 @@ siblings(g2, 2152, include.self = TRUE)
 #find out ancestors
 ancestor(g2,2152)
 
-ancestors(g2, 2152,type = "all")
 
-
-#find children of a single node (internal!)
-children(g2,13823)
-
-#will find children of an internal node, and and return all new tips
-descendants(g2,13823)
-descendants(g2, 13822)
-descendants(g2, 13821)
-descendants(g2,13820)
-
-
+get_leaf <- function(phy4object, leaf_name) {
+  the_node <- which(phy4object@label == leaf_name)
+  return(unname(edgeLength(phy4object)[getEdge(phy4object, the_node)]))
+}

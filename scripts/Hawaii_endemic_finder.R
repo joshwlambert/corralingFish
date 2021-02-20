@@ -27,7 +27,7 @@ sample_pts_utm = st_combine(sample_pts_utm)
 boun_box <- st_bbox(sample_points_sf)
   #plot with all sampling points and boundary box
 ggplot()+
-  geom_sf(data = hwi, colour = "black") +
+  geom_sf(data = hwi, colour = "black")+
   geom_sf(data = sample_points_sf,
           colour = "red",
           size = 0.2)+
@@ -40,10 +40,25 @@ fish_data <- read.csv("./trimmed_NOAA_taxa.csv")
 
 molecular_fish <- fish_data %>% filter(molec_data == 1) %>%
     select(Taxa)
-all_fish <- fish_data %>% select(Taxa)
+all_fish <- fish_data %>% select(Taxa,Genera)
+all_taxa <-all_fish$Taxa
+#check taxa against ICUN search
+#Hawaii, Actinopterygii, Marine Neritic : reef
+iucn_list <-
+  read.csv("../../redlist_species_data_a5756fa4-1aab-43d7-a26e-d7f1dae58be5/taxonomy.csv")
 
+iucn_list$scientificName <- gsub(" ", "_", iucn_list$scientificName)
+iucn_fish <- iucn_list$scientificName
+
+differ <-setdiff(iucn_fish, all_fish$Taxa)
+#iucn_fish[!iucn_fish %in% all_taxa]
+#also load in synonyms csv
+syn_iucn <-
+  read.csv("../../redlist_species_data_a5756fa4-1aab-43d7-a26e-d7f1dae58be5/synonyms.csv")
+
+syn_iucn$scientificName <- gsub(" ", "_", syn_iucn$scientificName)
 #download in actinopetrygian range data from IUCN
 install.packages("rgdal")
 library(rgdal)
 
-#fish <- readOGR(dsn = "actino", layer = "data_0")
+fish <- readOGR(dsn = "./actino", layer = "data_0")

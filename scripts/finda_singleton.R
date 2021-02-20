@@ -2,7 +2,7 @@ library(ape)
 library(dplyr)
 library(fishtree)
 library(data.table)
-
+library(phylobase)
 #read in dataset
 fishdataset <- read.csv("./datasets/depth_trimmed_taxa_UPDATED.csv")
 fishframe <- fishdataset %>% filter(molecular_data == 1)
@@ -42,13 +42,14 @@ for(i in singletons_by_genera){
 
 ######recycle Luis's "get_leaf_age function"
 ## function to extract tip ages for single taxa
-get_leaf_age<-function(tree,leaf_name){
-  the_node<-which(tree$tip.label==leaf_name)
-  return(tree$edge.length[which(tree$edge[,2]==the_node)])}
+get_leaf <- function(phy4object, leaf_name) {
+  the_node <- which(phy4object@label == leaf_name)
+  return(edgeLength(phy4object)[getEdge(phy4object, the_node)])
+  }
 
 leaf <- list()
 for(i in df_single$Taxon){
-  leaf[[i]] <- get_leaf_age(tree, i)
+  leaf[[i]] <- get_leaf(tree, i)
 
 }
 
