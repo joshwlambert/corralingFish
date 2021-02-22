@@ -4,8 +4,6 @@ library(ggmap)
 library(maps)
 library(dplyr)
 
-setwd(dir = "../../corralingfish/")
-
 NOAA <- read.csv("./Friedlander_data/Hawaii_NOAA_fish_data.csv")
 # ll <- unique(NOAA[,5:8]) # NEVER SUBSET BY COL NUMBER -PG
 

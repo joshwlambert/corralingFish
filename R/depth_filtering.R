@@ -1,7 +1,4 @@
-#load packages
-library(rredlist)
-library(knitr)
-library(dplyr)
+
 
 ############ vignette example ###############
 #create output vector for a single species (pedro vignette)
@@ -12,7 +9,7 @@ knitr::kable(search_output$result)
 depth_range <- c(
   "depth_upper" = as.numeric(search_output$result["depth_upper"]),
   "depth_lower" = as.numeric(search_output$result["depth_lower"])
-  )
+)
 
 depth_range
 
@@ -32,9 +29,9 @@ depth_range <- data.frame()
 
 #filtering loop
 for(i in shapefiles_data$iucn_names){
-output_seach[[i]] <- rredlist::rl_search(i)
+  output_seach[[i]] <- rredlist::rl_search(i)
 
-#population  new df
+  #population  new df
   #create row data
   iucn_name <- as.character(i)
   depth_upper <- as.numeric(unlist(output_seach[[i]][["result"]]["depth_upper"]))
