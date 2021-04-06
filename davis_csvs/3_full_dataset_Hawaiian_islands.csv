@@ -1,0 +1,246 @@
+"","Order","Family","Genera","Taxa","iucn_shapefile","molecular_data","iucn_names","Endemic_Revised","depth_upper","depth_lower","main_islands","nwhi","total"
+"1","Anguilliformes","Muraenidae","Echidna ","Echidna_nebulosa",1,1,"Echidna nebulosa",0,1,48,0.009262043,0.009350753,0.018612796
+"2","Anguilliformes","Muraenidae","Enchelycore","Enchelycore_pardalis",1,0,"Enchelycore pardalis",0,8,60,0.059290964,0.059858846,0.11914981
+"3","Anguilliformes","Muraenidae","Enchelynassa","Enchelynassa_canina",0,1,NA,NA,NA,NA,NA,NA,NA
+"4","Anguilliformes","Muraenidae","Gymnomuaena","Gymnomuraena_zebra",1,1,"Gymnomuraena zebra",0,3,50,0.011169808,0.011276791,0.022446599
+"5","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax_eurostus",1,1,"Gymnothorax eurostus",0,0,74,0.068108014,0.068760345,0.136868359
+"6","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax_flavimarginatus",1,1,"Gymnothorax flavimarginatus",0,1,150,0.009746829,0.009840182,0.019587011
+"7","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax_javanicus",1,1,"Gymnothorax javanicus",0,0,50,0.010218317,0.010316186,0.020534503
+"8","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax_melatremus",1,1,"Gymnothorax melatremus",0,1,58,0.01102673,0.011132342,0.022159072
+"9","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax_meleagris",1,1,"Gymnothorax meleagris",0,1,51,0.011818983,0.011932183,0.023751166
+"10","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax_rueppelliae",1,1,"Gymnothorax rueppelliae",0,1,40,0.010662743,0.004922505,0.015585247
+"11","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax_steindachneri",1,0,"Gymnothorax steindachneri",1,5,124,0.494504213,0.49924052,0.993744733
+"12","Anguilliformes","Muraenidae","Gymnothorax","Gymnothorax_undulatus",1,1,"Gymnothorax undulatus",0,9,110,0.009429638,0.009519954,0.018949592
+"13","Anguilliformes","Muraenidae","Scuticaria ","Scuticaria_tigrina",1,1,"Scuticaria tigrina",0,8,25,0.071636751,0.022345187,0.093981937
+"14","Anguilliformes","Ophichthidae","Myrichthys ","Myrichthys_magnificus",0,1,NA,NA,NA,NA,NA,NA,NA
+"15","Aulopiformes ","Synodontidae","Saurida","Saurida_flamma",1,0,"Saurida flamma",0,5,30,0.323966299,0.001547456,0.325513755
+"16","Aulopiformes ","Synodontidae","Saurida","Saurida_gracilis",1,1,"Saurida gracilis",0,1,12,0.009662216,0.00984406,0.019506276
+"17","Aulopiformes ","Synodontidae","Synodus","Synodus_binotatus",1,1,"Synodus binotatus",0,1,30,0.018584403,8.88e-05,0.018673173
+"18","Aulopiformes ","Synodontidae","Synodus","Synodus_dermatogenys",1,1,"Synodus dermatogenys",0,1,70,0.009580097,0.009760395,0.019340493
+"19","Aulopiformes ","Synodontidae","Synodus","Synodus_ulae",1,1,"Synodus ulae",0,1,121,0.207894993,0.211807587,0.41970258
+"20","Aulopiformes ","Synodontidae","Synodus","Synodus_variegatus",1,1,"Synodus variegatus",0,3,121,0.009739568,0.009922867,0.019662435
+"21","Beryciformes","Holocentridae ","Myripristis","Myripristis_amaena",1,1,"Myripristis amaena",0,5,52,0.037453095,0.038157965,0.07561106
+"22","Beryciformes","Holocentridae ","Myripristis","Myripristis_berndti",1,1,"Myripristis berndti",0,3,160,0.011694224,0.01191431,0.023608535
+"23","Beryciformes","Holocentridae ","Myripristis","Myripristis_chryseres",1,1,"Myripristis chryseres",0,12,350,0.053143148,0.054143305,0.107286453
+"24","Beryciformes","Holocentridae ","Myripristis","Myripristis_kuntee",1,1,"Myripristis kuntee",0,2,55,0.012328478,0.012560501,0.024888979
+"25","Beryciformes","Holocentridae ","Myripristis","Myripristis_vittata",1,1,"Myripristis vittata",0,3,80,0.013477346,6.44e-05,0.013541722
+"26","Beryciformes","Holocentridae ","Neoniphon","Neoniphon_aurolineatus",1,1,"Neoniphon aurolineatus",0,30,160,0.081219567,0.060983591,0.142203158
+"27","Beryciformes","Holocentridae ","Neoniphon","Neoniphon_sammara",1,1,"Neoniphon sammara",0,1,46,0.011235455,0.011446907,0.022682361
+"28","Beryciformes","Holocentridae ","Pristilepis","Pristilepis_oligolepis",1,0,"Pristilepis oligolepis",0,9,348,0.213153085,0.001018146,0.214171231
+"29","Beryciformes","Holocentridae ","Sargocentron","Sargocentron_diadema",1,1,"Sargocentron diadema",0,1,60,0.011114933,0.011324117,0.02243905
+"30","Beryciformes","Holocentridae ","Sargocentron","Sargocentron_ensifer",1,0,"Sargocentron ensifer",0,1,64,0.13781295,0.139132908,0.276945858
+"31","Beryciformes","Holocentridae ","Sargocentron","Sargocentron_punctatissimum",1,1,"Sargocentron punctatissimum",0,1,183,0.011185112,0.011395617,0.022580729
+"32","Beryciformes","Holocentridae ","Sargocentron","Sargocentron_spiniferum",1,1,"Sargocentron spiniferum",0,1,122,0.011311468,0.01152435,0.022835818
+"33","Beryciformes","Holocentridae ","Sargocentron","Sargocentron_tiere",1,1,"Sargocentron tiere",0,1,183,0.016731798,0.017046691,0.03377849
+"34","Beryciformes","Holocentridae ","Sargocentron","Sargocentron_xantherythrum",1,1,"Sargocentron xantherythrum",1,1,217,0.43196999,0.440099686,0.872069676
+"35","Carangiformes","Carangidae ","Carangoides","Carangoides_ferdau",1,1,"Carangoides ferdau",0,1,60,0.008590976,0.00867326,0.017264236
+"36","Carangiformes","Carangidae ","Carangoides","Carangoides_orthogrammus",1,1,"Carangoides orthogrammus",0,3,168,0.009743447,0.009836768,0.019580215
+"37","Carangiformes","Carangidae ","Pseudocaranx","Pseudocaranx_dentex",1,1,NA,NA,NA,NA,NA,NA,NA
+"38","Carangiformes","Carangidae ","Scomberoides","Scomberoides_lysan",1,1,"Scomberoides lysan",0,1,100,0.008733794,0.008817445,0.017551239
+"39","Lophiiformes","Antennariidae","Antennarius","Antennarius_commerson",0,1,NA,NA,NA,NA,NA,NA,NA
+"40","Ophidiiformes","Ophidiidae ","Brotula","Brotula_multibarbata",1,1,"Brotula multibarbata",0,0,650,0.008098532,0.008293731,0.016392263
+"41","Perciformes","Acanthuridae","Acanthurus ","Acanthurus_achilles",1,1,"Acanthurus achilles",0,0,18,0.031472154,0.032085633,0.063557788
+"42","Perciformes","Acanthuridae","Acanthurus ","Acanthurus_blochii",1,1,"Acanthurus blochii",0,2,50,0.014041815,0.014309675,0.02835149
+"43","Perciformes","Acanthuridae","Acanthurus ","Acanthurus_dussumieri",1,1,"Acanthurus dussumieri",0,4,131,0.012603902,0.012849587,0.02545349
+"44","Perciformes","Acanthuridae","Acanthurus ","Acanthurus_guttatus",1,1,"Acanthurus guttatus",0,1,6,0.014022456,0.014289947,0.028312403
+"45","Perciformes","Acanthuridae","Acanthurus ","Acanthurus_leucopareius",1,0,"Acanthurus leucopareius",0,1,85,0.056094052,0.057187479,0.113281531
+"46","Perciformes","Acanthuridae","Acanthurus ","Acanthurus_lineatus",1,1,"Acanthurus lineatus",0,0,15,0.001500085,0,0.001500085
+"47","Perciformes","Acanthuridae","Acanthurus ","Acanthurus_maculiceps",0,0,NA,NA,NA,NA,NA,NA,NA
+"48","Perciformes","Acanthuridae","Acanthurus ","Acanthurus_nigricans",1,1,"Acanthurus nigricans",0,0,67,0.011578637,0.011799509,0.023378146
+"49","Perciformes","Acanthuridae","Acanthurus ","Acanthurus_nigrofuscus",1,1,"Acanthurus nigrofuscus",0,0,25,0.008989541,0.009164772,0.018154313
+"50","Perciformes","Acanthuridae","Acanthurus ","Acanthurus_nigroris",1,1,"Acanthurus nigroris",1,1,90,0.430492044,0.438883521,0.869375565
+"51","Perciformes","Acanthuridae","Acanthurus ","Acanthurus_olivaceus",1,1,"Acanthurus olivaceus",0,3,83,0.012706006,0.012954303,0.02566031
+"52","Perciformes","Acanthuridae","Acanthurus ","Acanthurus_thompsoni",1,1,"Acanthurus thompsoni",0,4,119,0.01031628,0.010517373,0.020833653
+"53","Perciformes","Acanthuridae","Acanthurus ","Acanthurus_triostegus",1,1,"Acanthurus triostegus",0,0,90,0.008940229,0.009114499,0.018054729
+"54","Perciformes","Acanthuridae","Acanthurus ","Acanthurus_xanthopterus",1,1,"Acanthurus xanthopterus",1,1,120,0.009973253,3.929697222,3.939670475
+"55","Perciformes","Acanthuridae","Ctenochaetus","Ctenochaetus_hawaiiensis",1,1,"Ctenochaetus hawaiiensis",0,1,61,0.034367563,0.00556781,0.039935374
+"56","Perciformes","Acanthuridae","Ctenochaetus","Ctenochaetus_strigosus",1,1,"Ctenochaetus strigosus",1,1,113,0.430459854,0.438896076,0.86935593
+"57","Perciformes","Acanthuridae","Naso","Naso_annulatus",1,1,"Naso annulatus",0,1,60,0.011204727,0.011423139,0.022627866
+"58","Perciformes","Acanthuridae","Naso","Naso_brevirostris",1,1,"Naso brevirostris",0,2,122,0.00901047,0.009186109,0.018196579
+"59","Perciformes","Acanthuridae","Naso","Naso_caesius",1,1,"Naso caesius",0,3,50,0.030258711,0.030828182,0.061086893
+"60","Perciformes","Acanthuridae","Naso","Naso_hexacanthus",1,1,"Naso hexacanthus",0,6,229,0.010025796,0.010221227,0.020247023
+"61","Perciformes","Acanthuridae","Naso","Naso_lituratus",1,1,"Naso lituratus",0,0,90,0.012017799,0.012252059,0.024269858
+"62","Perciformes","Acanthuridae","Naso","Naso_maculatus",1,1,"Naso maculatus",0,20,220,0.126656528,0.129125412,0.25578194
+"63","Perciformes","Acanthuridae","Naso","Naso_unicornis",1,1,"Naso unicornis",0,0,80,0.009176076,0.009354943,0.018531019
+"64","Perciformes","Acanthuridae","Zebrasoma","Zebrasoma_flavescens",1,1,"Zebrasoma flavescens",0,1,81,0.071779737,0.073178922,0.144958659
+"65","Perciformes","Acanthuridae","Zebrasoma","Zebrasoma_velifer",1,1,"Zebrasoma veliferum",0,1,30,0.011461073,0.011676771,0.023137845
+"66","Perciformes","Apogonidae ","Apolemichthys","Apolemichthys_arcuatus",1,0,"Apolemichthys arcuatus",1,10,183,0.43196999,0.440099686,0.872069676
+"67","Perciformes","Apogonidae ","Ostorhinchus","Ostorhinchus_maculiferus",1,0,NA,NA,NA,NA,NA,NA,NA
+"68","Perciformes","Apogonidae ","Pristiapogon","Pristiapogon_kallopterus",1,1,NA,NA,NA,NA,NA,NA,NA
+"69","Perciformes","Blenniidae ","Cirripectes","Cirripectes_obscurus",1,0,"Cirripectes obscurus",1,0,6,0.465690699,0.47445502,0.940145719
+"70","Perciformes","Blenniidae ","Cirripectes","Cirripectes_vanderbilti",1,0,"Cirripectes vanderbilti",1,1,11,0.43196999,0.440099686,0.872069676
+"71","Perciformes","Blenniidae ","Entomacrodus","Entomacrodus_marmoratus",1,0,"Entomacrodus marmoratus",1,0,6,0.465690699,0.47445502,0.940145719
+"72","Perciformes","Blenniidae ","Epibulus","Epibulus_insidiator",1,1,"Epibulus insidiator",0,1,42,0.004236081,0.010480398,0.014716479
+"73","Perciformes","Blenniidae ","Exallias","Exallias_brevis",1,0,"Exallias brevis",0,3,20,0.011237188,0.011448673,0.022685861
+"74","Perciformes","Blenniidae ","Plagiotremus","Plagiotremus_ewaensis",1,0,"Plagiotremus ewaensis",1,2,55,0.465690699,0.47445502,0.940145719
+"75","Perciformes","Blenniidae ","Plagiotremus","Plagiotremus_goslinei",1,0,"Plagiotremus goslinei",1,1,15,0.829699112,0.134205398,0.96390451
+"76","Perciformes","Carangidae ","Seriola","Seriola_dumerili",1,1,"Seriola dumerili",0,10,360,0.006230465,0.006436697,0.012667162
+"77","Perciformes","Chaetodontidae ","Chaetodon","Chaetodon_auriga",1,1,"Chaetodon auriga",0,1,61,0.00817164,0.008325378,0.016497019
+"78","Perciformes","Chaetodontidae ","Chaetodon","Chaetodon_citrinellus",1,1,"Chaetodon citrinellus",0,1,36,0.010972938,0.008455176,0.019428114
+"79","Perciformes","Chaetodontidae ","Chaetodon","Chaetodon_ephippium",1,1,"Chaetodon ephippium",0,1,30,0.012882346,0.008016139,0.020898485
+"80","Perciformes","Chaetodontidae ","Chaetodon","Chaetodon_fremblii",1,1,"Chaetodon fremblii",1,1,128,0.465691718,0.474453033,0.940144751
+"81","Perciformes","Chaetodontidae ","Chaetodon","Chaetodon_kleinii",1,1,"Chaetodon kleinii",0,2,61,0.011061898,0.006883351,0.017945249
+"82","Perciformes","Chaetodontidae ","Chaetodon","Chaetodon_lineolatus",1,1,"Chaetodon lineolatus",0,2,171,0.009511291,4.54e-05,0.009556721
+"83","Perciformes","Chaetodontidae ","Chaetodon","Chaetodon_lunula",1,1,"Chaetodon lunula",0,1,60,0.009230853,0.007112815,0.016343668
+"84","Perciformes","Chaetodontidae ","Chaetodon","Chaetodon_lunulatus",1,1,"Chaetodon lunulatus",0,1,25,0.011177828,0.003514525,0.014692353
+"85","Perciformes","Chaetodontidae ","Chaetodon","Chaetodon_miliaris",1,1,"Chaetodon miliaris",1,0,250,0.431970451,0.440097349,0.8720678
+"86","Perciformes","Chaetodontidae ","Chaetodon","Chaetodon_multicinctus",1,1,"Chaetodon multicinctus",1,5,114,0.431970451,0.440097349,0.8720678
+"87","Perciformes","Chaetodontidae ","Chaetodon","Chaetodon_ornatissimus",1,1,"Chaetodon ornatissimus",0,1,36,0.011356205,0.011569855,0.02292606
+"88","Perciformes","Chaetodontidae ","Chaetodon","Chaetodon_quadrimaculatus",1,1,"Chaetodon quadrimaculatus",0,2,43,0.031732963,0.024451771,0.056184734
+"89","Perciformes","Chaetodontidae ","Chaetodon","Chaetodon_reticulatus",1,1,"Chaetodon reticulatus",0,1,30,0.019309185,9.22e-05,0.019401414
+"90","Perciformes","Chaetodontidae ","Chaetodon","Chaetodon_tinkeri",1,1,"Chaetodon tinkeri",0,6,160,0.497240321,0.080429336,0.577669657
+"91","Perciformes","Chaetodontidae ","Chaetodon","Chaetodon_trifascialis",1,1,"Chaetodon trifascialis",0,2,30,0,0.002968926,0.002968926
+"92","Perciformes","Chaetodontidae ","Chaetodon","Chaetodon_unimaculatus",1,1,"Chaetodon unimaculatus",0,1,60,0.010860223,0.011064544,0.021924767
+"93","Perciformes","Chaetodontidae ","Forcipiger","Forcipiger_flavissimus",1,1,"Forcipiger flavissimus",0,2,145,0.009360779,0.009536888,0.018897667
+"94","Perciformes","Chaetodontidae ","Forcipiger","Forcipiger_longirostris",1,1,"Forcipiger longirostris",0,2,208,0.011940822,0.009200977,0.021141799
+"95","Perciformes","Chaetodontidae ","Hemitaurichthys","Hemitaurichthys_polylepis",1,1,"Hemitaurichthys polylepis",0,3,60,0.01427421,0.002308874,0.016583084
+"96","Perciformes","Chaetodontidae ","Hemitaurichthys","Hemitaurichthys_thompsoni",1,1,"Hemitaurichthys thompsoni",0,4,300,0.075815124,0.035669164,0.111484288
+"97","Perciformes","Chaetodontidae ","Heniochus","Heniochus_diphreutes",1,1,"Heniochus diphreutes",0,5,210,0.025715616,0.026199418,0.051915034
+"98","Perciformes","Cheilodactylidae","Cheilodactylus","Cheilodactylus_vittatus",0,1,NA,NA,NA,NA,NA,NA,NA
+"99","Perciformes","Cirrhitidae","Amblycirrhitus","Amblycirrhitus_bimacula",1,1,"Amblycirrhitus bimacula",0,0,20,0.013536212,0.013790964,0.027327176
+"100","Perciformes","Cirrhitidae","Cirrhitops","Cirrhitops_fasciatus",1,0,"Cirrhitops fasciatus",1,1,52,0.465690699,0.474455021,0.940145719
+"101","Perciformes","Cirrhitidae","Cirrhitus","Cirrhitus_pinnulatus",1,1,"Cirrhitus pinnulatus",0,1,23,0.014346454,0.014616455,0.028962908
+"102","Perciformes","Cirrhitidae","Oxycirrhites","Oxycirrhites_typus",1,0,"Oxycirrhites typus",0,10,100,0.012505977,5.97e-05,0.012565713
+"103","Perciformes","Cirrhitidae","Paracirrhites","Paracirrhites_arcatus",1,1,"Paracirrhites arcatus",0,1,91,0.012375107,0.012608007,0.024983113
+"104","Perciformes","Cirrhitidae","Paracirrhites","Paracirrhites_forsteri",1,1,"Paracirrhites forsteri",0,1,35,0.010657367,0.010857939,0.021515306
+"105","Perciformes","Gobiidae","Psilogobius","Psilogobius_mainlandi",0,0,NA,NA,NA,NA,NA,NA,NA
+"106","Perciformes","Kuhliidae","Kuhlia","Kuhlia_sandvicensis",0,1,NA,NA,NA,NA,NA,NA,NA
+"107","Perciformes","Kyphosidae","Kyphosus","Kyphosus_cinerascens",1,1,"Kyphosus cinerascens",0,1,40,0.009536771,0.009628113,0.019164885
+"108","Perciformes","Kyphosidae","Kyphosus","Kyphosus_hawaiiensis",0,0,NA,NA,NA,NA,NA,NA,NA
+"109","Perciformes","Kyphosidae","Kyphosus","Kyphosus_vaigiensis",0,1,NA,NA,NA,NA,NA,NA,NA
+"110","Perciformes","Labridae","Anampses","Anampses_chrysocephalus",1,1,"Anampses chrysocephalus",1,12,139,0.465690699,0.47445502,0.940145719
+"111","Perciformes","Labridae","Anampses","Anampses_cuvier",1,1,"Anampses cuvier",1,2,26,0.43196999,0.440099686,0.872069676
+"112","Perciformes","Labridae","Bodianus","Bodianus_albotaeniatus",1,0,"Bodianus albotaeniatus",1,8,200,0.43196999,0.440099686,0.872069676
+"113","Perciformes","Labridae","Cheilio","Cheilio_inermis",1,1,"Cheilio inermis",0,0,30,0.01017832,0.010369876,0.020548196
+"114","Perciformes","Labridae","Cirrhilabrus","Cirrhilabrus_jordani",1,0,"Cirrhilabrus jordani",1,12,186,0.43196999,0.440099686,0.872069676
+"115","Perciformes","Labridae","Coris","Coris_ballieui",1,0,"Coris ballieui",1,10,108,0.43196999,0.440099686,0.872069676
+"116","Perciformes","Labridae","Coris","Coris_flavovittata",1,1,"Coris flavovittata",1,1,98,0.465690699,0.47445502,0.940145719
+"117","Perciformes","Labridae","Coris","Coris_gaimard",1,1,"Coris gaimard",0,1,50,0.014767798,0.015045729,0.029813528
+"118","Perciformes","Labridae","Coris","Coris_venusta",1,0,"Coris venusta",1,2,10,0.465690699,0.47445502,0.940145719
+"119","Perciformes","Labridae","Cymolutes","Cymolutes_lecluse",1,0,"Cymolutes lecluse",1,5,119,0.465690699,0.47445502,0.940145719
+"120","Perciformes","Labridae","Cymolutes","Cymolutes_praetextatus",1,1,"Cymolutes praetextatus",0,1,27,0.010228722,0,0.010228722
+"121","Perciformes","Labridae","Gomphosus","Gomphosus_varius",1,1,"Gomphosus varius",0,1,32,0.012336356,0.012568527,0.024904882
+"122","Perciformes","Labridae","Halichoeres","Halichoeres_ornatissimus",1,1,"Halichoeres ornatissimus",1,1,15,0.465690699,0.47445502,0.940145719
+"123","Perciformes","Labridae","Iniistius","Iniistius_aneitensis",1,1,"Iniistius aneitensis",0,12,92,0.019291323,9.21e-05,0.01938347
+"124","Perciformes","Labridae","Iniistius","Iniistius_pavo",1,1,"Iniistius pavo",0,2,100,0.010386962,0.010582445,0.020969407
+"125","Perciformes","Labridae","Iniistius","Iniistius_umbrilatus",1,0,"Iniistius umbrilatus",1,6,76,0.465690699,0.47445502,0.940145719
+"126","Perciformes","Labridae","Labroides","Labroides_phthirophagus",1,1,"Labroides phthirophagus",1,1,90,0.43196999,0.440099686,0.872069676
+"127","Perciformes","Labridae","Macropharyngodon","Macropharyngodon_geoffroy",1,1,"Macropharyngodon geoffroy",1,6,32,0.43196999,0.440099686,0.872069676
+"128","Perciformes","Labridae","Novaculichthys","Novaculichthys_taeniourus",1,1,"Novaculichthys taeniourus",0,1,35,0.009657618,0.009839375,0.019496994
+"129","Perciformes","Labridae","Oxycheilinus","Oxycheilinus_bimaculatus",1,1,"Oxycheilinus bimaculatus",0,2,110,0.012947162,0.013190828,0.02613799
+"130","Perciformes","Labridae","Oxycheilinus","Oxycheilinus_unifasciatus",1,1,"Oxycheilinus unifasciatus",0,1,161,0.014813332,0.01509212,0.029905452
+"131","Perciformes","Labridae","Pseudocheilinus","Pseudocheilinus_evanidus",1,1,"Pseudocheilinus evanidus",0,3,143,0.012334992,0.012567138,0.02490213
+"132","Perciformes","Labridae","Pseudocheilinus","Pseudocheilinus_octotaenia",1,1,"Pseudocheilinus octotaenia",0,2,50,0.014447543,0.014719447,0.029166991
+"133","Perciformes","Labridae","Pseudocheilinus","Pseudocheilinus_tetrataenia",1,1,"Pseudocheilinus tetrataenia",0,6,44,0.049821449,0.038390059,0.088211509
+"134","Perciformes","Labridae","Pseudojuloides","Pseudojuloides_cerasinus",1,1,"Pseudojuloides cerasinus",0,3,61,0.022968234,0.003715155,0.02668339
+"135","Perciformes","Labridae","Stethojulis","Stethojulis_balteata",1,1,"Stethojulis balteata",1,2,15,0.43196999,0.440099686,0.872069676
+"136","Perciformes","Labridae","Thalassoma","Thalassoma_ballieui",1,1,"Thalassoma ballieui",1,1,60,0.43196999,0.440099686,0.872069676
+"137","Perciformes","Labridae","Thalassoma","Thalassoma_duperrey",1,1,"Thalassoma duperrey",1,1,21,0.43196999,0.440099686,0.872069676
+"138","Perciformes","Labridae","Thalassoma","Thalassoma_lutescens",1,1,"Thalassoma lutescens",0,1,30,0.016583266,0.016895365,0.033478631
+"139","Perciformes","Labridae","Thalassoma","Thalassoma_purpureum",1,1,"Thalassoma purpureum",0,1,20,0.009877931,0.010063835,0.019941766
+"140","Perciformes","Labridae","Thalassoma","Thalassoma_quinquevittatum",1,1,"Thalassoma quinquevittatum",0,1,40,0.011492608,0.011708899,0.023201507
+"141","Perciformes","Labridae","Thalassoma","Thalassoma_trilobatum",1,1,"Thalassoma trilobatum",0,1,10,0.012696051,0.012934991,0.025631042
+"142","Perciformes","Lethrinidae","Monotaxi","Monotaxis_grandoculis",1,1,"Monotaxis grandoculis",0,3,60,0.010093008,0.007577999,0.017671007
+"143","Perciformes","Lutjanidae ","Aphareus","Aphareus_furca",1,1,"Aphareus furca",0,1,302,0.009673934,0.009766589,0.019440524
+"144","Perciformes","Lutjanidae ","Aprion","Aprion_virescens",1,1,"Aprion virescens",0,0,120,0.008935829,0.009021415,0.017957244
+"145","Perciformes","Lutjanidae ","Lutjanus","Lutjanus_fulvus",1,1,NA,NA,NA,NA,NA,NA,NA
+"146","Perciformes","Lutjanidae ","Lutjanus","Lutjanus_kasmira",1,1,NA,NA,NA,NA,NA,NA,NA
+"147","Perciformes","Malacanthidae","Malacanthus","Malacanthus_brevirostris",0,1,NA,NA,NA,NA,NA,NA,NA
+"148","Perciformes","Microdesmidae","Gunnellichthys","Gunnellichthys_curiosus",1,0,"Gunnellichthys curiosus",0,0,60,0.018710763,0.003026501,0.021737265
+"149","Perciformes","Microdesmidae","Nemateleotris","Nemateleotris_magnifica",1,1,"Nemateleotris magnifica",0,6,61,0.007745063,0.009383282,0.017128345
+"150","Perciformes","Microdesmidae","Ptereleotris","Ptereleotris_heteroptera",1,1,"Ptereleotris heteroptera",0,5,46,0.013785305,0.006485687,0.020270992
+"151","Perciformes","Mullidae","Mulloidichthys","Mulloidichthys_flavolineatus",1,1,"Mulloidichthys flavolineatus",0,1,97,0.009993559,0.010089276,0.020082835
+"152","Perciformes","Mullidae","Mulloidichthys","Mulloidichthys_mimicus",1,0,"Mulloidichthys mimicus",0,12,15,0.172478406,0.176277713,0.348756118
+"153","Perciformes","Mullidae","Mulloidichthys","Mulloidichthys_pflugeri",1,0,NA,NA,NA,NA,NA,NA,NA
+"154","Perciformes","Mullidae","Mulloidichthys","Mulloidichthys_vanicolensis",1,1,"Mulloidichthys vanicolensis",0,1,113,0.010532179,0.010633055,0.021165235
+"155","Perciformes","Mullidae","Mulloidichthys","Mulloidichthys_pfluegeri",1,0,"Mulloidichthys pfluegeri",0,13,110,0.086139844,0.086964882,0.173104725
+"156","Perciformes","Mullidae","Parupeneus","Parupeneus_chrysonemus",1,1,"Parupeneus chrysonemus",1,20,183,0.43196999,0.440099686,0.872069676
+"157","Perciformes","Mullidae","Parupeneus","Parupeneus_cyclostomus",1,1,"Parupeneus cyclostomus",0,2,125,0.010806887,0.010910394,0.021717281
+"158","Perciformes","Mullidae","Parupeneus","Parupeneus_insularis",1,1,"Parupeneus insularis",0,1,80,0.045579933,0.046016493,0.091596426
+"159","Perciformes","Mullidae","Parupeneus","Parupeneus_multifasciatus",1,1,"Parupeneus multifasciatus",0,3,161,0.012105204,0.012396974,0.024502178
+"160","Perciformes","Mullidae","Parupeneus","Parupeneus_pleurostigma",1,1,"Parupeneus pleurostigma",0,1,120,0.011369089,0.011477981,0.02284707
+"161","Perciformes","Mullidae","Parupeneus","Parupeneus_porphyreus",1,0,"Parupeneus porphyreus",1,2,140,0.465690699,0.474455021,0.940145719
+"162","Perciformes","Oplegnathidae","Oplegnathus","Oplegnathus_fasciatus",0,1,NA,NA,NA,NA,NA,NA,NA
+"163","Perciformes","Oplegnathidae","Oplegnathus","Oplegnathus_punctatus",0,1,NA,NA,NA,NA,NA,NA,NA
+"164","Perciformes","Pinguipedidae","Parapercis","Parapercis_schauinslandi",0,0,NA,NA,NA,NA,NA,NA,NA
+"165","Perciformes","Pomacanthidae ","Centropyge","Centropyge_fisheri",1,0,"Centropyge fisheri",0,3,60,0.011305897,0.011518675,0.022824572
+"166","Perciformes","Pomacanthidae ","Centropyge","Centropyge_flavissima",1,1,NA,NA,NA,NA,NA,NA,NA
+"167","Perciformes","Pomacanthidae ","Centropyge","Centropyge_interrupta",1,0,"Centropyge interruptus",0,15,60,0,0.069151647,0.069151647
+"168","Perciformes","Pomacanthidae ","Centropyge","Centropyge_loriculus",1,1,"Centropyge loricula",0,15,60,0.0281382,0.013238413,0.041376613
+"169","Perciformes","Pomacanthidae ","Centropyge","Centropyge_potteri",1,1,"Centropyge potteri",1,10,120,0.43196999,0.440099686,0.872069676
+"170","Perciformes","Pomacanthidae ","Genicanthus","Genicanthus_personatus",1,0,"Genicanthus personatus",1,10,150,0.465690699,0.47445502,0.940145719
+"171","Perciformes","Pomacentridae","Abudefduf","Abudefduf_abdominalis",1,1,"Abudefduf abdominalis",1,1,50,0.448864989,0.447836847,0.896701836
+"172","Perciformes","Pomacentridae","Abudefduf","Abudefduf_sordidus",1,1,"Abudefduf sordidus",0,0,3,0.009042816,0.004254449,0.013297265
+"173","Perciformes","Pomacentridae","Abudefduf","Abudefduf_vaigiensis",1,1,"Abudefduf vaigiensis",0,1,15,0.009011509,0.008958258,0.017969768
+"174","Perciformes","Pomacentridae","Chromis","Chromis_acares",0,1,NA,NA,NA,NA,NA,NA,NA
+"175","Perciformes","Pomacentridae","Chromis","Chromis_agilis",0,1,NA,NA,NA,NA,NA,NA,NA
+"176","Perciformes","Pomacentridae","Chromis","Chromis_hanui",0,0,NA,NA,NA,NA,NA,NA,NA
+"177","Perciformes","Pomacentridae","Chromis","Chromis_leucura",0,0,NA,NA,NA,NA,NA,NA,NA
+"178","Perciformes","Pomacentridae","Chromis","Chromis_ovalis",0,0,NA,NA,NA,NA,NA,NA,NA
+"179","Perciformes","Pomacentridae","Chromis","Chromis_vanderbilti",0,1,NA,NA,NA,NA,NA,NA,NA
+"180","Perciformes","Pomacentridae","Chromis","Chromis_verater",0,0,NA,NA,NA,NA,NA,NA,NA
+"181","Perciformes","Pomacentridae","Dascyllus ","Dascyllus_albisella",0,1,NA,NA,NA,NA,NA,NA,NA
+"182","Perciformes","Pomacentridae","Plectroglyphidodon","Plectroglyphidodon_imparipennis",0,1,NA,NA,NA,NA,NA,NA,NA
+"183","Perciformes","Pomacentridae","Plectroglyphidodon","Plectroglyphidodon_johnstonianus",0,1,NA,NA,NA,NA,NA,NA,NA
+"184","Perciformes","Pomacentridae","Plectroglyphidodon","Plectroglyphidodon_sindonis",0,0,NA,NA,NA,NA,NA,NA,NA
+"185","Perciformes","Pomacentridae","Stegastes","Stegastes_nigricans",1,1,NA,NA,NA,NA,NA,NA,NA
+"186","Perciformes","Priacanthidae","Heteropriacanthus","Heteropriacanthus_cruentatus",1,1,"Heteropriacanthus cruentatus",0,3,300,0.006164055,0.006312578,0.012476633
+"187","Perciformes","Priacanthidae","Priacanthus","Priacanthus_meeki",1,1,"Priacanthus meeki",1,3,275,0.433393632,0.441550122,0.874943754
+"188","Perciformes","Scaridae ","Calotomus","Calotomus_carolinus",1,1,"Calotomus carolinus",0,2,30,0.012212818,0.007599576,0.019812393
+"189","Perciformes","Scaridae ","Calotomus","Calotomus_zonarchus",1,1,"Calotomus zonarchus",1,12,170,0.465690699,0.47445502,0.940145719
+"190","Perciformes","Scaridae ","Chlorurus","Chlorurus_perspicillatus",1,0,"Chlorurus perspicillatus",1,1,71,0.43196999,0.440099686,0.872069676
+"191","Perciformes","Scaridae ","Chlorurus","Chlorurus_spilurus",1,1,"Chlorurus spilurus",0,1,30,0.012107165,0.012335023,0.024442188
+"192","Perciformes","Scaridae ","Scarus","Scarus_dubius",1,1,"Scarus dubius",1,1,20,0.43196999,0.440099686,0.872069676
+"193","Perciformes","Scaridae ","Scarus","Scarus_psittacus",1,1,"Scarus psittacus",0,2,30,0.010554187,0.010752818,0.021307005
+"194","Perciformes","Scaridae ","Scarus","Scarus_rubroviolaceus",1,1,"Scarus rubroviolaceus",0,1,36,0.009996672,0.010184811,0.020181483
+"195","Perciformes","Serranidae ","Cephalopholis ","Cephalopholis_argus",1,1,NA,NA,NA,NA,NA,NA,NA
+"196","Perciformes","Serranidae ","Hyporthodus","Hyporthodus_quernus",1,1,"Hyporthodus quernus",1,20,380,0.455941629,0.460642976,0.916584605
+"197","Perciformes","Serranidae ","Pseudanthias","Pseudanthias_bicolor",1,0,"Pseudanthias bicolor",0,5,104,0.021609835,0.022126209,0.043736044
+"198","Perciformes","Serranidae ","Pseudanthias","Pseudanthias_thompsoni",1,0,"Pseudanthias thompsoni",1,5,190,0.465690699,0.47445502,0.940145719
+"199","Perciformes","Sphyraenidae ","Sphyraena","Sphyraena_barracuda",0,1,NA,NA,NA,NA,NA,NA,NA
+"200","Perciformes","Sphyraenidae ","Sphyraena","Sphyraena_helleri",0,1,NA,NA,NA,NA,NA,NA,NA
+"201","Perciformes","Zanclidae","Zanclus","Zanclus_cornutus",1,1,"Zanclus cornutus",0,1,180,0.009795616,0.009889437,0.019685054
+"202","Pleuronectiformes","Bothidae","Bothus","Bothus_mancus",1,1,"Bothus mancus",0,1,256,0.009658552,0.009751061,0.019409613
+"203","Scorpaeniformes","Scorpaenidae","Caracanthus","Caracanthus_typicus",1,0,"Caracanthus typicus",1,0,25,0.465690699,0.47445502,0.940145719
+"204","Scorpaeniformes","Scorpaenidae","Dendrochirus","Dendrochirus_barberi",1,0,"Dendrochirus barberi",1,0,134,0.43196999,0.440099686,0.872069676
+"205","Scorpaeniformes","Scorpaenidae","Pterois","Pterois_sphex",1,0,"Pterois sphex",1,3,124,0.465690699,0.47445502,0.940145719
+"206","Scorpaeniformes","Scorpaenidae","Scorpaenodes","Scorpaenodes_parvipinnis",1,1,"Scorpaenodes parvipinnis",0,1,46,0.011979751,0.001937747,0.013917498
+"207","Scorpaeniformes","Scorpaenidae","Scorpaenopsis","Scorpaenopsis_cacopsis",1,0,"Scorpaenopsis cacopsis",1,4,61,0.465690699,0.47445502,0.940145719
+"208","Scorpaeniformes","Scorpaenidae","Scorpaenopsis","Scorpaenopsis_diabolus",1,1,"Scorpaenopsis diabolus",0,2,70,0.011504227,0.011720738,0.023224965
+"209","Scorpaeniformes","Scorpaenidae","Sebastapistes","Sebastapistes_ballieui",1,0,"Sebastapistes ballieui",1,1,11,0.43196999,0.440099686,0.872069676
+"210","Scorpaeniformes","Scorpaenidae","Sebastapistes","Sebastapistes_coniorta",1,0,"Sebastapistes coniorta",1,1,33,0.43196999,0.440099686,0.872069676
+"211","Scorpaeniformes","Scorpaenidae","Taenianotus","Taenianotus_triacanthus",1,1,"Taenianotus triacanthus",0,0,135,0.012833972,0.002075919,0.014909891
+"212","Sygnathiformes ","Aulostomidae ","Aulostomus","Aulostomus_chinensis",1,1,"Aulostomus chinensis",0,0,200,0.009735088,0.009918303,0.019653391
+"213","Sygnathiformes ","Fistulariidae","Fistularia","Fistularia_commersonii",1,1,"Fistularia commersonii",0,0,132,0.008929523,0.009015049,0.017944573
+"214","Sygnathiformes ","Syngnathidae ","Doryrhamphus ","Doryrhamphus_excisus_excisus",1,1,NA,NA,NA,NA,NA,NA,NA
+"215","Tetraodontiformes","Balistidae ","Balistes","Balistes_polylepis",1,1,NA,NA,NA,NA,NA,NA,NA
+"216","Tetraodontiformes","Balistidae ","Melichthys","Melichthys_niger",1,1,"Melichthys niger",0,0,75,0.012289002,0.012406704,0.024695706
+"217","Tetraodontiformes","Balistidae ","Melichthys","Melichthys_vidua",0,1,NA,NA,NA,NA,NA,NA,NA
+"218","Tetraodontiformes","Balistidae ","Rhinecanthus","Rhinecanthus_aculeatus",0,1,NA,NA,NA,NA,NA,NA,NA
+"219","Tetraodontiformes","Balistidae ","Rhinecanthus","Rhinecanthus_rectangulus",0,1,NA,NA,NA,NA,NA,NA,NA
+"220","Tetraodontiformes","Balistidae ","Sufflamen","Sufflamen_bursa",0,1,NA,NA,NA,NA,NA,NA,NA
+"221","Tetraodontiformes","Balistidae ","Sufflamen","Sufflamen_fraenatum",1,1,"Sufflamen fraenatum",0,13,200,0.010497613,0.008127124,0.018624736
+"222","Tetraodontiformes","Balistidae ","Xanthichthys","Xanthichthys_auromarginatus",0,1,NA,NA,NA,NA,NA,NA,NA
+"223","Tetraodontiformes","Balistidae ","Xanthichthys","Xanthichthys_mento",1,1,"Xanthichthys mento",0,6,131,0.036566201,0.037304787,0.073870988
+"224","Tetraodontiformes","Diodontidae","Diodon","Diodon_holocanthus",1,1,"Diodon holocanthus",0,2,100,0.00654932,0.006616663,0.013165983
+"225","Tetraodontiformes","Diodontidae","Diodon","Diodon_hystrix",1,1,"Diodon hystrix",0,2,50,0.00657502,0.006642813,0.013217833
+"226","Tetraodontiformes","Monacanthidae","Aluterus","Aluterus_scriptus",1,1,"Aluterus scriptus",0,3,120,0.005940386,0.007472136,0.013412522
+"227","Tetraodontiformes","Monacanthidae","Cantherhines","Cantherhines_dumerilii",1,1,"Cantherhines dumerilii",0,6,70,0.011123746,0.011333096,0.022456842
+"228","Tetraodontiformes","Monacanthidae","Cantherhines","Cantherhines_sandwichiensis",1,1,"Cantherhines sandwichiensis",0,2,73,0.290595631,0.18082669,0.471422321
+"229","Tetraodontiformes","Monacanthidae","Cantherhines","Cantherhines_verecundus",1,1,"Cantherhines verecundus",1,14,92,0.465690699,0.474455021,0.940145719
+"230","Tetraodontiformes","Monacanthidae","Pervagor","Pervagor_aspricaudus",1,0,"Pervagor aspricaudus",0,0,25,0.1103248,0.000527,0.110851776
+"231","Tetraodontiformes","Monacanthidae","Pervagor","Pervagor_spilosoma",1,0,"Pervagor spilosoma",1,6,138,0.43196999,0.440099686,0.872069676
+"232","Tetraodontiformes","Ostraciidae ","Lactoria","Lactoria_fornasini",0,0,NA,NA,NA,NA,NA,NA,NA
+"233","Tetraodontiformes","Ostraciidae ","Ostracion","Ostracion_meleagris",0,1,NA,NA,NA,NA,NA,NA,NA
+"234","Tetraodontiformes","Ostraciidae ","Ostracion","Ostracion_whitleyi",0,1,NA,NA,NA,NA,NA,NA,NA
+"235","Tetraodontiformes","Tetaodontidae ","Arothron","Arothron_hispidus",1,1,"Arothron hispidus",0,1,50,0.008497882,0.008657813,0.017155695
+"236","Tetraodontiformes","Tetraodontidae ","Arothron","Arothron_meleagris",1,1,"Arothron meleagris",0,3,24,0.019989182,0.020365172,0.040354355
+"237","Tetraodontiformes","Tetraodontidae ","Canthigaster","Canthigaster_amboinensis",1,1,"Canthigaster amboinensis",0,1,10,0.014883544,0.002407441,0.017290985
+"238","Tetraodontiformes","Tetraodontidae ","Canthigaster","Canthigaster_coronata",1,1,"Canthigaster coronata",1,6,165,0.457661599,0.462057096,0.919718696
+"239","Tetraodontiformes","Tetraodontidae ","Canthigaster","Canthigaster_epilampra",1,0,"Canthigaster epilampra",0,6,90,0.02005442,0.020247036,0.040301456
+"240","Tetraodontiformes","Tetraodontidae ","Canthigaster","Canthigaster_jactator",1,1,"Canthigaster jactator",1,1,89,0.43196999,0.440099686,0.872069676
+"241","Tetraodontiformes","Tetraodontidae ","Canthigaster","Canthigaster_solandri",1,1,NA,NA,NA,NA,NA,NA,NA
+"242","Tetraodontiformes","Tetraodontidae ","Caranx","Caranx_ignobilis",1,1,"Caranx ignobilis",0,10,188,0.00835772,0.00843777,0.01679549
+"243","Tetraodontiformes","Tetraodontidae ","Caranx","Caranx_lugubris",1,1,"Caranx lugubris",0,3,380,0.006330244,0.006482793,0.012813037
+"244","Tetraodontiformes","Tetraodontidae ","Caranx","Caranx_melampygus",1,1,"Caranx melampygus",0,1,190,0.008364971,0.00844509,0.016810061
+"245","Tetraodontiformes","Tetraodontidae ","Caranx","Caranx_sexfasciatus",1,1,"Caranx sexfasciatus",1,0,146,0.008161893,1.28815547,1.296317364

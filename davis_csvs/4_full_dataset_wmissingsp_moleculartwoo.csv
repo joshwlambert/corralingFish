@@ -1,0 +1,246 @@
+Order,Family,Genera,iucn_names,Taxa,iucn_shapefile,molecular_data,depth_upper,depth_lower,nwhi,main_islands,total_prange,endemicity,missing_species
+Perciformes,Pomacentridae,Abudefduf,Abudefduf abdominalis,Abudefduf_abdominalis,1,1,1,50,0.460690768,0.46396764,0.924658408,1,0
+Perciformes,Pomacentridae,Abudefduf,Abudefduf sordidus,Abudefduf_sordidus,1,1,0,3,0.004498448,0.009347074,0.013845522,0,0
+Perciformes,Pomacentridae,Abudefduf,Abudefduf vaigiensis,Abudefduf_vaigiensis,1,1,1,15,0.009131072,0.009314713,0.018445785,0,0
+Perciformes,Acanthuridae,Acanthurus ,Acanthurus achilles,Acanthurus_achilles,1,1,0,18,0.035294712,0.032531076,0.067825788,0,0
+Perciformes,Acanthuridae,Acanthurus ,Acanthurus blochii,Acanthurus_blochii,1,1,2,50,0.015646943,0.01451427,0.030161213,0,0
+Perciformes,Acanthuridae,Acanthurus ,Acanthurus dussumieri,Acanthurus_dussumieri,1,1,4,131,0.014134753,0.013027977,0.02716273,0,0
+Perciformes,Acanthuridae,Acanthurus ,Acanthurus guttatus,Acanthurus_guttatus,1,1,1,6,0.01562537,0.01449426,0.03011963,0,0
+Perciformes,Acanthuridae,Acanthurus ,Acanthurus leucopareius,Acanthurus_leucopareius,1,0,1,85,0.062907146,0.057981409,0.120888555,0,1
+Perciformes,Acanthuridae,Acanthurus ,Acanthurus lineatus,Acanthurus_lineatus,1,1,0,15,0,0.001527648,0.001527648,0,0
+Perciformes,Acanthuridae,Acanthurus ,Acanthurus maculiceps,Acanthurus_maculiceps,0,0,NA,NA,NA,NA,NA,NA,1
+Perciformes,Acanthuridae,Acanthurus ,Acanthurus nigricans,Acanthurus_nigricans,1,1,0,67,0.012902197,0.011968215,0.024870412,0,0
+Perciformes,Acanthuridae,Acanthurus ,Acanthurus nigrofuscus,Acanthurus_nigrofuscus,1,1,0,25,0.010081396,0.009292006,0.019373402,0,0
+Perciformes,Acanthuridae,Acanthurus ,Acanthurus nigroris,Acanthurus_nigroris,1,1,1,90,0.482778923,0.444976514,0.927755437,1,0
+Perciformes,Acanthuridae,Acanthurus ,Acanthurus olivaceus,Acanthurus_olivaceus,1,1,3,83,0.01424988,0.013133517,0.027383396,0,0
+Perciformes,Acanthuridae,Acanthurus ,Acanthurus thompsoni,Acanthurus_thompsoni,1,1,4,119,0.011569279,0.010663385,0.022232664,0,0
+Perciformes,Acanthuridae,Acanthurus ,Acanthurus triostegus,Acanthurus_triostegus,1,1,0,90,0.010026096,0.009241035,0.019267131,0,0
+Perciformes,Acanthuridae,Acanthurus ,Acanthurus xanthopterus,Acanthurus_xanthopterus,1,1,1,120,0.004961448,0.010296515,0.015257964,0,0
+Tetraodontiformes,Monacanthidae,Aluterus,Aluterus scriptus,Aluterus_scriptus,1,1,3,120,0.003415866,0.003278664,0.00669453,0,0
+Perciformes,Cirrhitidae,Amblycirrhitus,Amblycirrhitus bimacula,Amblycirrhitus_bimacula,1,1,0,20,0.015075302,0.013991655,0.029066957,0,0
+Perciformes,Labridae,Anampses,Anampses chrysocephalus,Anampses_chrysocephalus,1,1,12,139,0.518640526,0.481359473,0.999999999,1,0
+Perciformes,Labridae,Anampses,Anampses cuvier,Anampses_cuvier,1,1,2,26,0.481085715,0.446504186,0.927589902,1,0
+Perciformes,Lutjanidae ,Aphareus,Aphareus furca,Aphareus_furca,1,1,1,302,NA,NA,NA,NA,1
+Perciformes,Apogonidae ,Apolemichthys,Apolemichthys arcuatus,Apolemichthys_arcuatus,1,0,10,183,NA,NA,NA,NA,1
+Perciformes,Lutjanidae ,Aprion,Aprion virescens,Aprion_virescens,1,1,0,120,0.009122936,0.008947342,0.018070279,0,0
+Tetraodontiformes,Tetaodontidae ,Arothron,Arothron hispidus,Arothron_hispidus,1,1,1,50,0.009464106,0.008783805,0.018247911,0,0
+Tetraodontiformes,Tetraodontidae ,Arothron,Arothron meleagris,Arothron_meleagris,1,1,3,24,0.022261816,0.020661715,0.042923531,0,0
+Sygnathiformes ,Aulostomidae ,Aulostomus,Aulostomus chinensis,Aulostomus_chinensis,1,1,0,200,NA,NA,NA,NA,1
+Tetraodontiformes,Balistidae ,Balistes,Balistes polylepis,Balistes_polylepis,0,1,NA,NA,NA,NA,NA,NA,1
+Perciformes,Labridae,Bodianus,Bodianus albotaeniatus,Bodianus_albotaeniatus,1,0,8,200,NA,NA,NA,NA,1
+Pleuronectiformes,Bothidae,Bothus,Bothus mancus,Bothus_mancus,1,1,1,256,NA,NA,NA,NA,1
+Ophidiiformes,Ophidiidae ,Brotula,Brotula multibarbata,Brotula_multibarbata,1,1,0,650,NA,NA,NA,NA,1
+Perciformes,Scaridae ,Calotomus,Calotomus carolinus,Calotomus_carolinus,1,1,2,30,0.008128135,0.012623734,0.020751869,0,0
+Perciformes,Scaridae ,Calotomus,Calotomus zonarchus,Calotomus_zonarchus,1,1,12,170,NA,NA,NA,NA,1
+Tetraodontiformes,Monacanthidae,Cantherhines,Cantherhines dumerilii,Cantherhines_dumerilii,1,1,6,70,0.012388535,0.011498019,0.023886555,0,0
+Tetraodontiformes,Monacanthidae,Cantherhines,Cantherhines sandwichiensis,Cantherhines_sandwichiensis,1,1,2,73,0.193403391,0.300373102,0.493776493,0,0
+Tetraodontiformes,Monacanthidae,Cantherhines,Cantherhines verecundus,Cantherhines_verecundus,1,1,14,92,0.518640527,0.481359472,0.999999999,1,0
+Tetraodontiformes,Tetraodontidae ,Canthigaster,Canthigaster amboinensis,Canthigaster_amboinensis,1,1,1,10,0.002554163,0.01538432,0.017938484,0,0
+Tetraodontiformes,Tetraodontidae ,Canthigaster,Canthigaster coronata,Canthigaster_coronata,1,1,6,165,NA,NA,NA,NA,1
+Tetraodontiformes,Tetraodontidae ,Canthigaster,Canthigaster epilampra,Canthigaster_epilampra,1,0,6,90,0.020474877,0.020080258,0.040555135,0,1
+Tetraodontiformes,Tetraodontidae ,Canthigaster,Canthigaster jactator,Canthigaster_jactator,1,1,1,89,0.481085715,0.446504186,0.927589902,1,0
+Tetraodontiformes,Tetraodontidae ,Canthigaster,Canthigaster solandri,Canthigaster_solandri,0,1,NA,NA,NA,NA,NA,NA,1
+Scorpaeniformes,Scorpaenidae,Caracanthus,Caracanthus typicus,Caracanthus_typicus,1,0,0,25,0.518640526,0.481359473,0.999999999,1,1
+Carangiformes,Carangidae ,Carangoides,Carangoides ferdau,Carangoides_ferdau,1,1,1,60,0.008770863,0.008602045,0.017372908,0,0
+Carangiformes,Carangidae ,Carangoides,Carangoides orthogrammus,Carangoides_orthogrammus,1,1,3,168,NA,NA,NA,NA,1
+Tetraodontiformes,Tetraodontidae ,Caranx,Caranx ignobilis,Caranx_ignobilis,1,1,10,188,NA,NA,NA,NA,1
+Tetraodontiformes,Tetraodontidae ,Caranx,Caranx lugubris,Caranx_lugubris,1,1,3,380,NA,NA,NA,NA,1
+Tetraodontiformes,Tetraodontidae ,Caranx,Caranx melampygus,Caranx_melampygus,1,1,1,190,NA,NA,NA,NA,1
+Tetraodontiformes,Tetraodontidae ,Caranx,Caranx sexfasciatus,Caranx_sexfasciatus,1,1,0,146,0.008260348,0.008119626,0.016379975,0,0
+Perciformes,Pomacanthidae ,Centropyge,Centropyge fisheri,Centropyge_fisheri,1,0,3,60,0.012591397,0.011686299,0.024277696,0,1
+Perciformes,Pomacanthidae ,Centropyge,Centropyge flavissima,Centropyge_flavissima,0,1,NA,NA,NA,NA,NA,NA,1
+Perciformes,Pomacanthidae ,Centropyge,Centropyge interruptus,Centropyge_interrupta,1,0,15,60,0.078464571,0,0.078464571,0,1
+Perciformes,Pomacanthidae ,Centropyge,Centropyge loricula,Centropyge_loriculus,1,1,15,60,0.013997655,0.029084947,0.043082601,0,0
+Perciformes,Pomacanthidae ,Centropyge,Centropyge potteri,Centropyge_potteri,1,1,10,120,0.481085715,0.446504186,0.927589902,1,0
+Perciformes,Serranidae ,Cephalopholis ,Cephalopholis argus ,Cephalopholis_argus,0,1,NA,NA,NA,NA,NA,NA,1
+Perciformes,Chaetodontidae ,Chaetodon,Chaetodon auriga,Chaetodon_auriga,1,1,1,61,0.009100717,0.008446601,0.017547318,0,0
+Perciformes,Chaetodontidae ,Chaetodon,Chaetodon citrinellus,Chaetodon_citrinellus,1,1,1,36,0.009129424,0.011342157,0.020471582,0,0
+Perciformes,Chaetodontidae ,Chaetodon,Chaetodon ephippium,Chaetodon_ephippium,1,1,1,30,0.008573679,0.013315813,0.021889492,0,0
+Perciformes,Chaetodontidae ,Chaetodon,Chaetodon fremblii,Chaetodon_fremblii,1,1,1,128,0.518638615,0.481361384,0.999999999,1,0
+Perciformes,Chaetodontidae ,Chaetodon,Chaetodon kleinii,Chaetodon_kleinii,1,1,2,61,0.007362103,0.01143411,0.018796214,0,0
+Perciformes,Chaetodontidae ,Chaetodon,Chaetodon lineolatus,Chaetodon_lineolatus,1,1,2,171,NA,NA,NA,NA,1
+Perciformes,Chaetodontidae ,Chaetodon,Chaetodon lunula,Chaetodon_lunula,1,1,1,60,0.007680019,0.009541454,0.017221473,0,0
+Perciformes,Chaetodontidae ,Chaetodon,Chaetodon lunulatus,Chaetodon_lunulatus,1,1,1,25,0.003750054,0.011553941,0.015303996,0,0
+Perciformes,Chaetodontidae ,Chaetodon,Chaetodon miliaris,Chaetodon_miliaris,1,1,0,250,NA,NA,NA,NA,1
+Perciformes,Chaetodontidae ,Chaetodon,Chaetodon multicinctus,Chaetodon_multicinctus,1,1,5,114,0.481083403,0.446505459,0.927588862,1,0
+Perciformes,Chaetodontidae ,Chaetodon,Chaetodon ornatissimus,Chaetodon_ornatissimus,1,1,1,36,0.01264735,0.01173832,0.02438567,0,0
+Perciformes,Chaetodontidae ,Chaetodon,Chaetodon quadrimaculatus,Chaetodon_quadrimaculatus,1,1,2,43,0.026401651,0.032800718,0.059202369,0,0
+Perciformes,Chaetodontidae ,Chaetodon,Chaetodon reticulatus,Chaetodon_reticulatus,1,1,1,30,9.17E-05,0.019958904,0.020050641,0,0
+Perciformes,Chaetodontidae ,Chaetodon,Chaetodon tinkeri,Chaetodon_tinkeri,1,1,6,160,NA,NA,NA,NA,1
+Perciformes,Chaetodontidae ,Chaetodon,Chaetodon trifascialis,Chaetodon_trifascialis,1,1,2,30,0.003133612,0,0.003133612,0,0
+Perciformes,Chaetodontidae ,Chaetodon,Chaetodon unimaculatus,Chaetodon_unimaculatus,1,1,1,60,0.01209498,0.011225649,0.023320629,0,0
+Perciformes,Labridae,Cheilio,Cheilio inermis,Cheilio_inermis,1,1,0,30,0.011335612,0.010520783,0.021856395,0,0
+Perciformes,Scaridae ,Chlorurus,Chlorurus perspicillatus,Chlorurus_perspicillatus,1,0,1,71,0.481085715,0.446504186,0.927589902,1,1
+Perciformes,Scaridae ,Chlorurus,Chlorurus spilurus,Chlorurus_spilurus,1,1,1,30,0.013483771,0.012514527,0.025998297,0,0
+Perciformes,Labridae,Cirrhilabrus,Cirrhilabrus jordani,Cirrhilabrus_jordani,1,0,12,186,NA,NA,NA,NA,1
+Perciformes,Cirrhitidae,Cirrhitops,Cirrhitops fasciatus,Cirrhitops_fasciatus,1,0,1,52,0.518640527,0.481359472,0.999999999,1,1
+Perciformes,Cirrhitidae,Cirrhitus,Cirrhitus pinnulatus,Cirrhitus_pinnulatus,1,1,1,23,0.01597767,0.014829159,0.030806829,0,0
+Perciformes,Blenniidae ,Cirripectes,Cirripectes obscurus,Cirripectes_obscurus,1,0,0,6,0.518640526,0.481359473,0.999999999,1,1
+Perciformes,Blenniidae ,Cirripectes,Cirripectes vanderbilti,Cirripectes_vanderbilti,1,0,1,11,0.481085715,0.446504186,0.927589902,1,1
+Perciformes,Labridae,Coris,Coris ballieui,Coris_ballieui,1,0,10,108,0.481085715,0.446504186,0.927589902,1,1
+Perciformes,Labridae,Coris,Coris flavovittata,Coris_flavovittata,1,1,1,98,0.518640526,0.481359473,0.999999999,1,0
+Perciformes,Labridae,Coris,Coris gaimard,Coris_gaimard,1,1,1,50,0.016446923,0.01526468,0.031711603,0,0
+Perciformes,Labridae,Coris,Coris venusta,Coris_venusta,1,0,2,10,0.518640526,0.481359473,0.999999999,1,1
+Perciformes,Acanthuridae,Ctenochaetus,Ctenochaetus hawaiiensis,Ctenochaetus_hawaiiensis,1,1,1,61,0.005918737,0.035523905,0.041442642,0,0
+Perciformes,Acanthuridae,Ctenochaetus,Ctenochaetus strigosus,Ctenochaetus_strigosus,1,1,1,113,0.4828176,0.44494324,0.927760839,1,0
+Perciformes,Labridae,Cymolutes,Cymolutes lecluse,Cymolutes_lecluse,1,0,5,119,0.518640526,0.481359473,0.999999999,1,1
+Perciformes,Labridae,Cymolutes,Cymolutes praetextatus,Cymolutes_praetextatus,1,1,1,27,0,0.010511877,0.010511877,0,0
+Scorpaeniformes,Scorpaenidae,Dendrochirus,Dendrochirus barberi,Dendrochirus_barberi,1,0,0,134,0.481085715,0.446504186,0.927589902,1,1
+Tetraodontiformes,Diodontidae,Diodon,Diodon holocanthus,Diodon_holocanthus,1,1,2,100,0.006739103,0.006557763,0.013296866,0,0
+Tetraodontiformes,Diodontidae,Diodon,Diodon hystrix,Diodon_hystrix,1,1,2,50,0.0067656,0.006583496,0.013349096,0,0
+Anguilliformes,Muraenidae,Echidna ,Echidna nebulosa,Echidna_nebulosa,1,1,1,48,0.009455981,0.009273977,0.018729958,0,0
+Anguilliformes,Muraenidae,Enchelycore,Enchelycore pardalis,Enchelycore_pardalis,1,0,8,60,0.06053246,0.059367355,0.119899815,0,1
+Perciformes,Blenniidae ,Entomacrodus,Entomacrodus marmoratus,Entomacrodus_marmoratus,1,0,0,6,0.518640526,0.481359473,0.999999999,1,1
+Perciformes,Blenniidae ,Epibulus,Epibulus insidiator,Epibulus_insidiator,1,1,1,42,0.011461286,0.004362158,0.015823444,0,0
+Perciformes,Blenniidae ,Exallias,Exallias brevis,Exallias_brevis,1,0,3,20,0.012514876,0.011615278,0.024130154,0,1
+Sygnathiformes ,Fistulariidae,Fistularia,Fistularia commersonii,Fistularia_commersonii,1,1,0,132,0.009116499,0.008941028,0.018057527,0,0
+Perciformes,Chaetodontidae ,Forcipiger,Forcipiger flavissimus,Forcipiger_flavissimus,1,1,2,145,0.010425054,0.009675752,0.020100806,0,0
+Perciformes,Chaetodontidae ,Forcipiger,Forcipiger longirostris,Forcipiger_longirostris,1,1,2,208,NA,NA,NA,NA,1
+Perciformes,Pomacanthidae ,Genicanthus,Genicanthus personatus,Genicanthus_personatus,1,0,10,150,0.518640526,0.481359473,0.999999999,1,1
+Perciformes,Labridae,Gomphosus,Gomphosus varius,Gomphosus_varius,1,1,1,32,0.013739021,0.012751428,0.026490449,0,0
+Perciformes,Microdesmidae,Gunnellichthys,Gunnellichthys curiosus,Gunnellichthys_curiosus,1,0,0,60,0.003210952,0.019340311,0.022551264,0,1
+Anguilliformes,Muraenidae,Gymnomuaena,Gymnomuraena zebra,Gymnomuraena_zebra,1,1,3,50,0.011403693,0.0111842,0.022587892,0,0
+Anguilliformes,Muraenidae,Gymnothorax,Gymnothorax eurostus,Gymnothorax_eurostus,1,1,0,74,0.069534131,0.068195765,0.137729896,0,0
+Anguilliformes,Muraenidae,Gymnothorax,Gymnothorax flavimarginatus,Gymnothorax_flavimarginatus,1,1,1,150,0.009950917,0.009759387,0.019710304,0,0
+Anguilliformes,Muraenidae,Gymnothorax,Gymnothorax javanicus,Gymnothorax_javanicus,1,1,0,50,0.010432278,0.010231482,0.02066376,0,0
+Anguilliformes,Muraenidae,Gymnothorax,Gymnothorax melatremus,Gymnothorax_melatremus,1,1,1,58,0.011257619,0.011040937,0.022298556,0,0
+Anguilliformes,Muraenidae,Gymnothorax,Gymnothorax meleagris,Gymnothorax_meleagris,1,1,1,51,0.012066461,0.011834211,0.023900671,0,0
+Anguilliformes,Muraenidae,Gymnothorax,Gymnothorax rueppelliae,Gymnothorax_rueppelliae,1,1,1,40,0.004928923,0.010676481,0.015605404,0,0
+Anguilliformes,Muraenidae,Gymnothorax,Gymnothorax steindachneri,Gymnothorax_steindachneri,1,0,5,124,0.504858662,0.495141338,1,1,1
+Anguilliformes,Muraenidae,Gymnothorax,Gymnothorax undulatus,Gymnothorax_undulatus,1,1,9,110,0.009627086,0.009441788,0.019068874,0,0
+Perciformes,Labridae,Halichoeres,Halichoeres ornatissimus,Halichoeres_ornatissimus,1,1,1,15,0.518640526,0.481359473,0.999999999,1,0
+Perciformes,Chaetodontidae ,Hemitaurichthys,Hemitaurichthys polylepis,Hemitaurichthys_polylepis,1,1,3,60,0.002449589,0.01475451,0.017204099,0,0
+Perciformes,Chaetodontidae ,Hemitaurichthys,Hemitaurichthys thompsoni,Hemitaurichthys_thompsoni,1,1,4,300,NA,NA,NA,NA,1
+Perciformes,Chaetodontidae ,Heniochus,Heniochus diphreutes,Heniochus_diphreutes,1,1,5,210,NA,NA,NA,NA,1
+Perciformes,Priacanthidae,Heteropriacanthus,Heteropriacanthus cruentatus,Heteropriacanthus_cruentatus,1,1,3,300,NA,NA,NA,NA,1
+Perciformes,Serranidae ,Hyporthodus,Hyporthodus quernus,Hyporthodus_quernus,1,1,20,380,NA,NA,NA,NA,1
+Perciformes,Labridae,Iniistius,Iniistius aneitensis,Iniistius_aneitensis,1,1,12,92,9.17E-05,0.019940405,0.020032064,0,0
+Perciformes,Labridae,Iniistius,Iniistius pavo,Iniistius_pavo,1,1,2,100,0.011567977,0.010736445,0.022304422,0,0
+Perciformes,Labridae,Iniistius,Iniistius umbrilatus,Iniistius_umbrilatus,1,0,6,76,0.518640526,0.481359473,0.999999999,1,1
+Perciformes,Kyphosidae,Kyphosus,Kyphosus cinerascens,Kyphosus_cinerascens,1,1,1,40,0.009736462,0.009549058,0.019285521,0,0
+Perciformes,Labridae,Labroides,Labroides phthirophagus,Labroides_phthirophagus,1,1,1,90,0.481085715,0.446504186,0.927589902,1,0
+Perciformes,Lutjanidae ,Lutjanus,Lutjanus kasmira,Lutjanus_kasmira,1,1,0.100000001,265,NA,NA,NA,NA,1
+Perciformes,Labridae,Macropharyngodon,Macropharyngodon geoffroy,Macropharyngodon_geoffroy,1,1,6,32,0.481085715,0.446504186,0.927589902,1,0
+Tetraodontiformes,Balistidae ,Melichthys,Melichthys niger,Melichthys_niger,1,1,0,75,0.012546322,0.012304835,0.024851157,0,0
+Perciformes,Lethrinidae,Monotaxi,Monotaxis grandoculis,Monotaxis_grandoculis,1,1,3,60,0.007716642,0.010432601,0.018149242,0,0
+Perciformes,Mullidae,Mulloidichthys,Mulloidichthys flavolineatus,Mulloidichthys_flavolineatus,1,1,1,97,0.010202814,0.010006435,0.020209249,0,0
+Perciformes,Mullidae,Mulloidichthys,Mulloidichthys mimicus,Mulloidichthys_mimicus,1,0,12,15,0.179428209,0.172700761,0.352128969,0,1
+Perciformes,Mullidae,Mulloidichthys,Mulloidichthys pfluegeri,Mulloidichthys_pfluegeri,1,0,13,110,0.08794353,0.086250827,0.174194357,0,1
+Perciformes,Mullidae,Mulloidichthys,Mulloidichthys vanicolensis,Mulloidichthys_vanicolensis,1,1,1,113,0.010752713,0.010545749,0.021298462,0,0
+Beryciformes,Holocentridae ,Myripristis,Myripristis amaena,Myripristis_amaena,1,1,5,52,0.041711576,0.038713254,0.08042483,0,0
+Beryciformes,Holocentridae ,Myripristis,Myripristis berndti,Myripristis_berndti,1,1,3,160,NA,NA,NA,NA,1
+Beryciformes,Holocentridae ,Myripristis,Myripristis chryseres,Myripristis_chryseres,1,1,12,350,NA,NA,NA,NA,1
+Beryciformes,Holocentridae ,Myripristis,Myripristis kuntee,Myripristis_kuntee,1,1,2,55,0.013730247,0.012743286,0.026473534,0,0
+Beryciformes,Holocentridae ,Myripristis,Myripristis vittata,Myripristis_vittata,1,1,3,80,6.40E-05,0.013930809,0.013994844,0,0
+Perciformes,Apogonidae ,Ostorhinchus,NA,Ostorhinchus_maculiferus,0,0,NA,NA,NA,NA,NA,NA,1
+Perciformes,Gobiidae,Psilogobius,NA,Psilogobius_mainlandi,0,0,NA,NA,NA,NA,NA,NA,1
+Perciformes,Kyphosidae,Kyphosus,NA,Kyphosus_hawaiiensis,0,0,NA,NA,NA,NA,NA,NA,1
+Perciformes,Pinguipedidae,Parapercis,NA,Parapercis_schauinslandi,0,0,NA,NA,NA,NA,NA,NA,1
+Perciformes,Pomacentridae,Chromis,NA,Chromis_hanui,0,0,NA,NA,NA,NA,NA,NA,1
+Perciformes,Pomacentridae,Chromis,NA,Chromis_leucura,0,0,NA,NA,NA,NA,NA,NA,1
+Perciformes,Pomacentridae,Chromis,NA,Chromis_ovalis,0,0,NA,NA,NA,NA,NA,NA,1
+Perciformes,Pomacentridae,Chromis,NA,Chromis_verater,0,0,NA,NA,NA,NA,NA,NA,1
+Perciformes,Pomacentridae,Plectroglyphidodon,NA,Plectroglyphidodon_sindonis,0,0,NA,NA,NA,NA,NA,NA,1
+Tetraodontiformes,Ostraciidae ,Lactoria,NA,Lactoria_fornasini,0,0,NA,NA,NA,NA,NA,NA,1
+Anguilliformes,Muraenidae,Enchelynassa,NA,Enchelynassa_canina,0,1,NA,NA,NA,NA,NA,NA,1
+Anguilliformes,Ophichthidae,Myrichthys ,NA,Myrichthys_magnificus,0,1,NA,NA,NA,NA,NA,NA,1
+Carangiformes,Carangidae ,Pseudocaranx,NA,Pseudocaranx_dentex,0,1,NA,NA,NA,NA,NA,NA,1
+Lophiiformes,Antennariidae,Antennarius,NA,Antennarius_commerson,0,1,NA,NA,NA,NA,NA,NA,1
+Perciformes,Apogonidae ,Pristiapogon,NA,Pristiapogon_kallopterus,0,1,NA,NA,NA,NA,NA,NA,1
+Perciformes,Cheilodactylidae,Cheilodactylus,NA,Cheilodactylus_vittatus,0,1,NA,NA,NA,NA,NA,NA,1
+Perciformes,Kuhliidae,Kuhlia,NA,Kuhlia_sandvicensis,0,1,NA,NA,NA,NA,NA,NA,1
+Perciformes,Kyphosidae,Kyphosus,NA,Kyphosus_vaigiensis,0,1,NA,NA,NA,NA,NA,NA,1
+Perciformes,Lutjanidae ,Lutjanus,NA,Lutjanus_fulvus,0,1,NA,NA,NA,NA,NA,NA,1
+Perciformes,Lutjanidae ,Lutjanus,NA,Lutjanus_kasmira,1,1,NA,NA,NA,NA,NA,NA,1
+Perciformes,Malacanthidae,Malacanthus,NA,Malacanthus_brevirostris,0,1,NA,NA,NA,NA,NA,NA,1
+Perciformes,Oplegnathidae,Oplegnathus,NA,Oplegnathus_fasciatus,0,1,NA,NA,NA,NA,NA,NA,1
+Perciformes,Oplegnathidae,Oplegnathus,NA,Oplegnathus_punctatus,0,1,NA,NA,NA,NA,NA,NA,1
+Perciformes,Pomacentridae,Chromis,NA,Chromis_acares,0,1,NA,NA,NA,NA,NA,NA,1
+Perciformes,Pomacentridae,Chromis,NA,Chromis_agilis,0,1,NA,NA,NA,NA,NA,NA,1
+Perciformes,Pomacentridae,Chromis,NA,Chromis_vanderbilti,0,1,NA,NA,NA,NA,NA,NA,1
+Perciformes,Pomacentridae,Dascyllus ,NA,Dascyllus_albisella,0,1,NA,NA,NA,NA,NA,NA,1
+Perciformes,Pomacentridae,Plectroglyphidodon,NA,Plectroglyphidodon_imparipennis,0,1,NA,NA,NA,NA,NA,NA,1
+Perciformes,Pomacentridae,Plectroglyphidodon,NA,Plectroglyphidodon_johnstonianus,0,1,NA,NA,NA,NA,NA,NA,1
+Perciformes,Pomacentridae,Stegastes,NA,Stegastes_nigricans,1,1,NA,NA,NA,NA,NA,NA,1
+Perciformes,Sphyraenidae ,Sphyraena,NA,Sphyraena_barracuda,0,1,NA,NA,NA,NA,NA,NA,1
+Perciformes,Sphyraenidae ,Sphyraena,NA,Sphyraena_helleri,0,1,NA,NA,NA,NA,NA,NA,1
+Sygnathiformes ,Syngnathidae ,Doryrhamphus ,NA,Doryrhamphus_excisus_excisus,1,1,NA,NA,NA,NA,NA,NA,1
+Tetraodontiformes,Balistidae ,Melichthys,NA,Melichthys_vidua,0,1,NA,NA,NA,NA,NA,NA,1
+Tetraodontiformes,Balistidae ,Rhinecanthus,NA,Rhinecanthus_aculeatus,0,1,NA,NA,NA,NA,NA,NA,1
+Tetraodontiformes,Balistidae ,Rhinecanthus,NA,Rhinecanthus_rectangulus,0,1,NA,NA,NA,NA,NA,NA,1
+Tetraodontiformes,Balistidae ,Sufflamen,NA,Sufflamen_bursa,0,1,NA,NA,NA,NA,NA,NA,1
+Tetraodontiformes,Balistidae ,Xanthichthys,NA,Xanthichthys_auromarginatus,0,1,NA,NA,NA,NA,NA,NA,1
+Tetraodontiformes,Ostraciidae ,Ostracion,NA,Ostracion_meleagris,0,1,NA,NA,NA,NA,NA,NA,1
+Tetraodontiformes,Ostraciidae ,Ostracion,NA,Ostracion_whitleyi,0,1,NA,NA,NA,NA,NA,NA,1
+Perciformes,Acanthuridae,Naso,Naso annulatus,Naso_annulatus,1,1,1,60,0.012565636,0.011581725,0.024147361,0,0
+Perciformes,Acanthuridae,Naso,Naso brevirostris,Naso_brevirostris,1,1,2,122,0.010104868,0.009313639,0.019418507,0,0
+Perciformes,Acanthuridae,Naso,Naso caesius,Naso_caesius,1,1,3,50,0.033699179,0.031276805,0.064975984,0,0
+Perciformes,Acanthuridae,Naso,Naso hexacanthus,Naso_hexacanthus,1,1,6,229,NA,NA,NA,NA,1
+Perciformes,Acanthuridae,Naso,Naso lituratus,Naso_lituratus,1,1,0,90,0.013477462,0.012422153,0.025899615,0,0
+Perciformes,Acanthuridae,Naso,Naso maculatus,Naso_maculatus,1,1,20,220,NA,NA,NA,NA,1
+Perciformes,Acanthuridae,Naso,Naso unicornis,Naso_unicornis,1,1,0,80,0.010290588,0.009484817,0.019775405,0,0
+Perciformes,Microdesmidae,Nemateleotris,Nemateleotris magnifica,Nemateleotris_magnifica,1,1,6,61,0.011776713,0.007769451,0.019546164,0,0
+Beryciformes,Holocentridae ,Neoniphon,Neoniphon aurolineatus,Neoniphon_aurolineatus,1,1,30,160,NA,NA,NA,NA,1
+Beryciformes,Holocentridae ,Neoniphon,Neoniphon sammara,Neoniphon_sammara,1,1,1,46,0.012512945,0.011613486,0.024126432,0,0
+Perciformes,Labridae,Novaculichthys,Novaculichthys taeniourus,Novaculichthys_taeniourus,1,1,1,35,0.010755706,0.009982562,0.020738268,0,0
+Perciformes,Labridae,Oxycheilinus,Oxycheilinus bimaculatus,Oxycheilinus_bimaculatus,1,1,2,110,0.014419277,0.013382786,0.027802063,0,0
+Perciformes,Labridae,Oxycheilinus,Oxycheilinus unifasciatus,Oxycheilinus_unifasciatus,1,1,1,161,NA,NA,NA,NA,1
+Perciformes,Cirrhitidae,Oxycirrhites,Oxycirrhites typus,Oxycirrhites_typus,1,0,10,100,5.94E-05,0.012926757,0.012986176,0,1
+Perciformes,Cirrhitidae,Paracirrhites,Paracirrhites arcatus,Paracirrhites_arcatus,1,1,1,91,0.013782177,0.012791483,0.026573661,0,0
+Perciformes,Cirrhitidae,Paracirrhites,Paracirrhites forsteri,Paracirrhites_forsteri,1,1,1,35,0.011869128,0.011015948,0.022885076,0,0
+Perciformes,Mullidae,Parupeneus,Parupeneus chrysonemus,Parupeneus_chrysonemus,1,1,20,183,NA,NA,NA,NA,1
+Perciformes,Mullidae,Parupeneus,Parupeneus cyclostomus,Parupeneus_cyclostomus,1,1,2,125,0.011033173,0.010820811,0.021853984,0,0
+Perciformes,Mullidae,Parupeneus,Parupeneus insularis,Parupeneus_insularis,1,1,1,80,0.046534334,0.045638659,0.092172993,0,0
+Perciformes,Mullidae,Parupeneus,Parupeneus multifasciatus,Parupeneus_multifasciatus,1,1,3,161,NA,NA,NA,NA,1
+Perciformes,Mullidae,Parupeneus,Parupeneus pleurostigma,Parupeneus_pleurostigma,1,1,1,120,0.011607147,0.011383737,0.022990884,0,0
+Perciformes,Mullidae,Parupeneus,Parupeneus porphyreus,Parupeneus_porphyreus,1,0,2,140,0.518640527,0.481359472,0.999999999,1,1
+Tetraodontiformes,Monacanthidae,Pervagor,Pervagor aspricaudus,Pervagor_aspricaudus,1,0,0,25,0.000524186,0.114036822,0.114561008,0,1
+Tetraodontiformes,Monacanthidae,Pervagor,Pervagor spilosoma,Pervagor_spilosoma,1,0,6,138,0.481085715,0.446504186,0.927589902,1,1
+Perciformes,Blenniidae ,Plagiotremus,Plagiotremus ewaensis,Plagiotremus_ewaensis,1,0,2,55,0.518640526,0.481359473,0.999999999,1,1
+Perciformes,Blenniidae ,Plagiotremus,Plagiotremus goslinei,Plagiotremus_goslinei,1,0,1,15,0.142384572,0.857615426,0.999999998,1,1
+Perciformes,Priacanthidae,Priacanthus,Priacanthus meeki,Priacanthus_meeki,1,1,3,275,NA,NA,NA,NA,1
+Beryciformes,Holocentridae ,Pristilepis,Pristilepis oligolepis,Pristilepis_oligolepis,1,0,9,348,NA,NA,NA,NA,1
+Perciformes,Serranidae ,Pseudanthias,Pseudanthias bicolor,Pseudanthias_bicolor,1,0,5,104,0.022531163,0.021637677,0.044168841,0,1
+Perciformes,Serranidae ,Pseudanthias,Pseudanthias thompsoni,Pseudanthias_thompsoni,1,0,5,190,NA,NA,NA,NA,1
+Perciformes,Labridae,Pseudocheilinus,Pseudocheilinus evanidus,Pseudocheilinus_evanidus,1,1,3,143,0.013737502,0.012750019,0.026487521,0,0
+Perciformes,Labridae,Pseudocheilinus,Pseudocheilinus octotaenia,Pseudocheilinus_octotaenia,1,1,2,50,0.016090254,0.01493365,0.031023904,0,0
+Perciformes,Labridae,Pseudocheilinus,Pseudocheilinus tetrataenia,Pseudocheilinus_tetrataenia,1,1,6,44,0.041451415,0.051497757,0.092949171,0,0
+Perciformes,Labridae,Pseudojuloides,Pseudojuloides cerasinus,Pseudojuloides_cerasinus,1,1,3,61,0.003941576,0.023741031,0.027682607,0,0
+Perciformes,Microdesmidae,Ptereleotris,Ptereleotris heteroptera,Ptereleotris_heteroptera,1,1,5,46,0.006857651,0.01424913,0.021106781,0,0
+Scorpaeniformes,Scorpaenidae,Pterois,Pterois sphex,Pterois_sphex,1,0,3,124,0.518640526,0.481359473,0.999999999,1,1
+Beryciformes,Holocentridae ,Sargocentron,Sargocentron diadema,Sargocentron_diadema,1,1,1,60,0.01237872,0.01148891,0.02386763,0,0
+Beryciformes,Holocentridae ,Sargocentron,Sargocentron ensifer,Sargocentron_ensifer,1,0,1,64,0.140698622,0.13799051,0.278689133,0,1
+Beryciformes,Holocentridae ,Sargocentron,Sargocentron punctatissimum,Sargocentron_punctatissimum,1,1,1,183,NA,NA,NA,NA,1
+Beryciformes,Holocentridae ,Sargocentron,Sargocentron spiniferum,Sargocentron_spiniferum,1,1,1,122,0.012597601,0.011692057,0.024289658,0,0
+Beryciformes,Holocentridae ,Sargocentron,Sargocentron tiere,Sargocentron_tiere,1,1,1,183,NA,NA,NA,NA,1
+Beryciformes,Holocentridae ,Sargocentron,Sargocentron xantherythrum,Sargocentron_xantherythrum,1,1,1,217,NA,NA,NA,NA,1
+Aulopiformes ,Synodontidae,Saurida,Saurida flamma,Saurida_flamma,1,0,5,30,0.001539261,0.33486657,0.336405831,0,1
+Aulopiformes ,Synodontidae,Saurida,Saurida gracilis,Saurida_gracilis,1,1,1,12,0.010760827,0.009987314,0.020748141,0,0
+Perciformes,Scaridae ,Scarus,Scarus dubius,Scarus_dubius,1,1,1,20,0.481085715,0.446504186,0.927589902,1,0
+Perciformes,Scaridae ,Scarus,Scarus psittacus,Scarus_psittacus,1,1,2,30,0.011754217,0.010909297,0.022663513,0,0
+Perciformes,Scaridae ,Scarus,Scarus rubroviolaceus,Scarus_rubroviolaceus,1,1,1,36,0.011133311,0.010333024,0.021466335,0,0
+Carangiformes,Carangidae ,Scomberoides,Scomberoides lysan,Scomberoides_lysan,1,1,1,100,0.008916671,0.008745047,0.017661718,0,0
+Scorpaeniformes,Scorpaenidae,Scorpaenodes,Scorpaenodes parvipinnis,Scorpaenodes_parvipinnis,1,1,1,46,0.002055844,0.012382825,0.014438669,0,0
+Scorpaeniformes,Scorpaenidae,Scorpaenopsis,Scorpaenopsis cacopsis,Scorpaenopsis_cacopsis,1,0,4,61,0.518640526,0.481359473,0.999999999,1,1
+Scorpaeniformes,Scorpaenidae,Scorpaenopsis,Scorpaenopsis diabolus,Scorpaenopsis_diabolus,1,1,2,70,0.012812278,0.011891302,0.02470358,0,0
+Anguilliformes,Muraenidae,Scuticaria ,Scuticaria tigrina,Scuticaria_tigrina,1,1,8,25,0.022330383,0.071729048,0.094059431,0,0
+Scorpaeniformes,Scorpaenidae,Sebastapistes,Sebastapistes ballieui,Sebastapistes_ballieui,1,0,1,11,0.481085715,0.446504186,0.927589902,1,1
+Scorpaeniformes,Scorpaenidae,Sebastapistes,Sebastapistes coniorta,Sebastapistes_coniorta,1,0,1,33,0.481085715,0.446504186,0.927589902,1,1
+Perciformes,Carangidae ,Seriola,Seriola dumerili,Seriola_dumerili,1,1,10,360,NA,NA,NA,NA,1
+Perciformes,Labridae,Stethojulis,Stethojulis balteata,Stethojulis_balteata,1,1,2,15,0.481085715,0.446504186,0.927589902,1,0
+Tetraodontiformes,Balistidae ,Sufflamen,Sufflamen fraenatum,Sufflamen_fraenatum,1,1,13,200,NA,NA,NA,NA,1
+Aulopiformes ,Synodontidae,Synodus,Synodus binotatus,Synodus_binotatus,1,1,1,30,8.83E-05,0.0192097,0.019298,0,0
+Aulopiformes ,Synodontidae,Synodus,Synodus dermatogenys,Synodus_dermatogenys,1,1,1,70,0.010669371,0.009902432,0.020571803,0,0
+Aulopiformes ,Synodontidae,Synodus,Synodus ulae,Synodus_ulae,1,1,1,121,0.231533009,0.214889892,0.446422901,0,0
+Aulopiformes ,Synodontidae,Synodus,Synodus variegatus,Synodus_variegatus,1,1,3,121,0.010846973,0.010067268,0.020914241,0,0
+Scorpaeniformes,Scorpaenidae,Taenianotus,Taenianotus triacanthus,Taenianotus_triacanthus,1,1,0,135,0.002202437,0.013265787,0.015468224,0,0
+Perciformes,Labridae,Thalassoma,Thalassoma ballieui,Thalassoma_ballieui,1,1,1,60,0.481085715,0.446504186,0.927589902,1,0
+Perciformes,Labridae,Thalassoma,Thalassoma duperrey,Thalassoma_duperrey,1,1,1,21,0.481085715,0.446504186,0.927589902,1,0
+Perciformes,Labridae,Thalassoma,Thalassoma lutescens,Thalassoma_lutescens,1,1,1,30,0.018468813,0.017141232,0.035610045,0,0
+Perciformes,Labridae,Thalassoma,Thalassoma purpureum,Thalassoma_purpureum,1,1,1,20,0.011001069,0.010210287,0.021211356,0,0
+Perciformes,Labridae,Thalassoma,Thalassoma quinquevittatum,Thalassoma_quinquevittatum,1,1,1,40,0.012799337,0.011879292,0.024678629,0,0
+Perciformes,Labridae,Thalassoma,Thalassoma trilobatum,Thalassoma_trilobatum,1,1,1,10,0.014139614,0.013123226,0.02726284,0,0
+Tetraodontiformes,Balistidae ,Xanthichthys,Xanthichthys mento,Xanthichthys_mento,1,1,6,131,0.038002737,0.036613342,0.074616079,0,0
+Perciformes,Zanclidae,Zanclus,Zanclus cornutus,Zanclus_cornutus,1,1,1,180,NA,NA,NA,NA,1
+Perciformes,Acanthuridae,Zebrasoma,Zebrasoma flavescens,Zebrasoma_flavescens,1,1,1,81,0.08049799,0.07419486,0.15469285,0,0
+Perciformes,Acanthuridae,Zebrasoma,Zebrasoma veliferum,Zebrasoma_velifer,1,1,1,30,0.012764217,0.011846696,0.024610913,0,0

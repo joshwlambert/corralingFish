@@ -1,0 +1,162 @@
+Family,Taxa,depth_upper,depth_lower,total_prange,endemicity
+Muraenidae,Gymnothorax_steindachneri,5,124,1,1
+Labridae,Anampses_chrysocephalus,12,139,0.999999999,1
+Monacanthidae,Cantherhines_verecundus,14,92,0.999999999,1
+Scorpaenidae,Caracanthus_typicus,0,25,0.999999999,1
+Chaetodontidae ,Chaetodon_fremblii,1,128,0.999999999,1
+Cirrhitidae,Cirrhitops_fasciatus,1,52,0.999999999,1
+Blenniidae ,Cirripectes_obscurus,0,6,0.999999999,1
+Labridae,Coris_flavovittata,1,98,0.999999999,1
+Labridae,Coris_venusta,2,10,0.999999999,1
+Labridae,Cymolutes_lecluse,5,119,0.999999999,1
+Blenniidae ,Entomacrodus_marmoratus,0,6,0.999999999,1
+Pomacanthidae ,Genicanthus_personatus,10,150,0.999999999,1
+Labridae,Halichoeres_ornatissimus,1,15,0.999999999,1
+Labridae,Iniistius_umbrilatus,6,76,0.999999999,1
+Mullidae,Parupeneus_porphyreus,2,140,0.999999999,1
+Blenniidae ,Plagiotremus_ewaensis,2,55,0.999999999,1
+Scorpaenidae,Pterois_sphex,3,124,0.999999999,1
+Scorpaenidae,Scorpaenopsis_cacopsis,4,61,0.999999999,1
+Blenniidae ,Plagiotremus_goslinei,1,15,0.999999998,1
+Acanthuridae,Ctenochaetus_strigosus,1,113,0.927760839,1
+Acanthuridae,Acanthurus_nigroris,1,90,0.927755437,1
+Labridae,Anampses_cuvier,2,26,0.927589902,1
+Tetraodontidae ,Canthigaster_jactator,1,89,0.927589902,1
+Pomacanthidae ,Centropyge_potteri,10,120,0.927589902,1
+Scaridae ,Chlorurus_perspicillatus,1,71,0.927589902,1
+Blenniidae ,Cirripectes_vanderbilti,1,11,0.927589902,1
+Labridae,Coris_ballieui,10,108,0.927589902,1
+Scorpaenidae,Dendrochirus_barberi,0,134,0.927589902,1
+Labridae,Labroides_phthirophagus,1,90,0.927589902,1
+Labridae,Macropharyngodon_geoffroy,6,32,0.927589902,1
+Monacanthidae,Pervagor_spilosoma,6,138,0.927589902,1
+Scaridae ,Scarus_dubius,1,20,0.927589902,1
+Scorpaenidae,Sebastapistes_ballieui,1,11,0.927589902,1
+Scorpaenidae,Sebastapistes_coniorta,1,33,0.927589902,1
+Labridae,Stethojulis_balteata,2,15,0.927589902,1
+Labridae,Thalassoma_ballieui,1,60,0.927589902,1
+Labridae,Thalassoma_duperrey,1,21,0.927589902,1
+Chaetodontidae ,Chaetodon_multicinctus,5,114,0.927588862,1
+Pomacentridae,Abudefduf_abdominalis,1,50,0.924658408,1
+Monacanthidae,Cantherhines_sandwichiensis,2,73,0.493776493,0
+Synodontidae,Synodus_ulae,1,121,0.446422901,0
+Mullidae,Mulloidichthys_mimicus,12,15,0.352128969,0
+Synodontidae,Saurida_flamma,5,30,0.336405831,0
+Holocentridae ,Sargocentron_ensifer,1,64,0.278689133,0
+Mullidae,Mulloidichthys_pfluegeri,13,110,0.174194357,0
+Acanthuridae,Zebrasoma_flavescens,1,81,0.15469285,0
+Muraenidae,Gymnothorax_eurostus,0,74,0.137729896,0
+Acanthuridae,Acanthurus_leucopareius,1,85,0.120888555,0
+Muraenidae,Enchelycore_pardalis,8,60,0.119899815,0
+Monacanthidae,Pervagor_aspricaudus,0,25,0.114561008,0
+Muraenidae,Scuticaria_tigrina,8,25,0.094059431,0
+Labridae,Pseudocheilinus_tetrataenia,6,44,0.092949171,0
+Mullidae,Parupeneus_insularis,1,80,0.092172993,0
+Holocentridae ,Myripristis_amaena,5,52,0.08042483,0
+Pomacanthidae ,Centropyge_interrupta,15,60,0.078464571,0
+Balistidae ,Xanthichthys_mento,6,131,0.074616079,0
+Acanthuridae,Acanthurus_achilles,0,18,0.067825788,0
+Acanthuridae,Naso_caesius,3,50,0.064975984,0
+Chaetodontidae ,Chaetodon_quadrimaculatus,2,43,0.059202369,0
+Serranidae ,Pseudanthias_bicolor,5,104,0.044168841,0
+Pomacanthidae ,Centropyge_loriculus,15,60,0.043082601,0
+Tetraodontidae ,Arothron_meleagris,3,24,0.042923531,0
+Acanthuridae,Ctenochaetus_hawaiiensis,1,61,0.041442642,0
+Tetraodontidae ,Canthigaster_epilampra,6,90,0.040555135,0
+Labridae,Thalassoma_lutescens,1,30,0.035610045,0
+Labridae,Coris_gaimard,1,50,0.031711603,0
+Labridae,Pseudocheilinus_octotaenia,2,50,0.031023904,0
+Cirrhitidae,Cirrhitus_pinnulatus,1,23,0.030806829,0
+Acanthuridae,Acanthurus_blochii,2,50,0.030161213,0
+Acanthuridae,Acanthurus_guttatus,1,6,0.03011963,0
+Cirrhitidae,Amblycirrhitus_bimacula,0,20,0.029066957,0
+Labridae,Oxycheilinus_bimaculatus,2,110,0.027802063,0
+Labridae,Pseudojuloides_cerasinus,3,61,0.027682607,0
+Acanthuridae,Acanthurus_olivaceus,3,83,0.027383396,0
+Labridae,Thalassoma_trilobatum,1,10,0.02726284,0
+Acanthuridae,Acanthurus_dussumieri,4,131,0.02716273,0
+Cirrhitidae,Paracirrhites_arcatus,1,91,0.026573661,0
+Labridae,Gomphosus_varius,1,32,0.026490449,0
+Labridae,Pseudocheilinus_evanidus,3,143,0.026487521,0
+Holocentridae ,Myripristis_kuntee,2,55,0.026473534,0
+Scaridae ,Chlorurus_spilurus,1,30,0.025998297,0
+Acanthuridae,Naso_lituratus,0,90,0.025899615,0
+Acanthuridae,Acanthurus_nigricans,0,67,0.024870412,0
+Balistidae ,Melichthys_niger,0,75,0.024851157,0
+Scorpaenidae,Scorpaenopsis_diabolus,2,70,0.02470358,0
+Labridae,Thalassoma_quinquevittatum,1,40,0.024678629,0
+Acanthuridae,Zebrasoma_velifer,1,30,0.024610913,0
+Chaetodontidae ,Chaetodon_ornatissimus,1,36,0.02438567,0
+Holocentridae ,Sargocentron_spiniferum,1,122,0.024289658,0
+Pomacanthidae ,Centropyge_fisheri,3,60,0.024277696,0
+Acanthuridae,Naso_annulatus,1,60,0.024147361,0
+Blenniidae ,Exallias_brevis,3,20,0.024130154,0
+Holocentridae ,Neoniphon_sammara,1,46,0.024126432,0
+Muraenidae,Gymnothorax_meleagris,1,51,0.023900671,0
+Monacanthidae,Cantherhines_dumerilii,6,70,0.023886555,0
+Holocentridae ,Sargocentron_diadema,1,60,0.02386763,0
+Chaetodontidae ,Chaetodon_unimaculatus,1,60,0.023320629,0
+Mullidae,Parupeneus_pleurostigma,1,120,0.022990884,0
+Cirrhitidae,Paracirrhites_forsteri,1,35,0.022885076,0
+Scaridae ,Scarus_psittacus,2,30,0.022663513,0
+Muraenidae,Gymnomuraena_zebra,3,50,0.022587892,0
+Microdesmidae,Gunnellichthys_curiosus,0,60,0.022551264,0
+Labridae,Iniistius_pavo,2,100,0.022304422,0
+Muraenidae,Gymnothorax_melatremus,1,58,0.022298556,0
+Acanthuridae,Acanthurus_thompsoni,4,119,0.022232664,0
+Chaetodontidae ,Chaetodon_ephippium,1,30,0.021889492,0
+Labridae,Cheilio_inermis,0,30,0.021856395,0
+Mullidae,Parupeneus_cyclostomus,2,125,0.021853984,0
+Scaridae ,Scarus_rubroviolaceus,1,36,0.021466335,0
+Mullidae,Mulloidichthys_vanicolensis,1,113,0.021298462,0
+Labridae,Thalassoma_purpureum,1,20,0.021211356,0
+Microdesmidae,Ptereleotris_heteroptera,5,46,0.021106781,0
+Synodontidae,Synodus_variegatus,3,121,0.020914241,0
+Scaridae ,Calotomus_carolinus,2,30,0.020751869,0
+Synodontidae,Saurida_gracilis,1,12,0.020748141,0
+Labridae,Novaculichthys_taeniourus,1,35,0.020738268,0
+Muraenidae,Gymnothorax_javanicus,0,50,0.02066376,0
+Synodontidae,Synodus_dermatogenys,1,70,0.020571803,0
+Chaetodontidae ,Chaetodon_citrinellus,1,36,0.020471582,0
+Mullidae,Mulloidichthys_flavolineatus,1,97,0.020209249,0
+Chaetodontidae ,Forcipiger_flavissimus,2,145,0.020100806,0
+Chaetodontidae ,Chaetodon_reticulatus,1,30,0.020050641,0
+Labridae,Iniistius_aneitensis,12,92,0.020032064,0
+Acanthuridae,Naso_unicornis,0,80,0.019775405,0
+Muraenidae,Gymnothorax_flavimarginatus,1,150,0.019710304,0
+Microdesmidae,Nemateleotris_magnifica,6,61,0.019546164,0
+Acanthuridae,Naso_brevirostris,2,122,0.019418507,0
+Acanthuridae,Acanthurus_nigrofuscus,0,25,0.019373402,0
+Synodontidae,Synodus_binotatus,1,30,0.019298,0
+Kyphosidae,Kyphosus_cinerascens,1,40,0.019285521,0
+Acanthuridae,Acanthurus_triostegus,0,90,0.019267131,0
+Muraenidae,Gymnothorax_undulatus,9,110,0.019068874,0
+Chaetodontidae ,Chaetodon_kleinii,2,61,0.018796214,0
+Muraenidae,Echidna_nebulosa,1,48,0.018729958,0
+Pomacentridae,Abudefduf_vaigiensis,1,15,0.018445785,0
+Tetaodontidae ,Arothron_hispidus,1,50,0.018247911,0
+Lethrinidae,Monotaxis_grandoculis,3,60,0.018149242,0
+Lutjanidae ,Aprion_virescens,0,120,0.018070279,0
+Fistulariidae,Fistularia_commersonii,0,132,0.018057527,0
+Tetraodontidae ,Canthigaster_amboinensis,1,10,0.017938484,0
+Carangidae ,Scomberoides_lysan,1,100,0.017661718,0
+Chaetodontidae ,Chaetodon_auriga,1,61,0.017547318,0
+Carangidae ,Carangoides_ferdau,1,60,0.017372908,0
+Chaetodontidae ,Chaetodon_lunula,1,60,0.017221473,0
+Chaetodontidae ,Hemitaurichthys_polylepis,3,60,0.017204099,0
+Tetraodontidae ,Caranx_sexfasciatus,0,146,0.016379975,0
+Blenniidae ,Epibulus_insidiator,1,42,0.015823444,0
+Muraenidae,Gymnothorax_rueppelliae,1,40,0.015605404,0
+Scorpaenidae,Taenianotus_triacanthus,0,135,0.015468224,0
+Chaetodontidae ,Chaetodon_lunulatus,1,25,0.015303996,0
+Acanthuridae,Acanthurus_xanthopterus,1,120,0.015257964,0
+Scorpaenidae,Scorpaenodes_parvipinnis,1,46,0.014438669,0
+Holocentridae ,Myripristis_vittata,3,80,0.013994844,0
+Pomacentridae,Abudefduf_sordidus,0,3,0.013845522,0
+Diodontidae,Diodon_hystrix,2,50,0.013349096,0
+Diodontidae,Diodon_holocanthus,2,100,0.013296866,0
+Cirrhitidae,Oxycirrhites_typus,10,100,0.012986176,0
+Labridae,Cymolutes_praetextatus,1,27,0.010511877,0
+Monacanthidae,Aluterus_scriptus,3,120,0.00669453,0
+Chaetodontidae ,Chaetodon_trifascialis,2,30,0.003133612,0
+Acanthuridae,Acanthurus_lineatus,0,15,0.001527648,0

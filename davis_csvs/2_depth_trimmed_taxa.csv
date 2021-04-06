@@ -1,0 +1,201 @@
+,iucn_names,Order,Family,Genera,Taxa,iucn_shapefile,molecular_data,depth_upper,depth_lower
+1,Abudefduf abdominalis,Perciformes,Pomacentridae,Abudefduf,Abudefduf_abdominalis,1,1,1,50
+2,Abudefduf sordidus,Perciformes,Pomacentridae,Abudefduf,Abudefduf_sordidus,1,1,0,3
+3,Abudefduf vaigiensis,Perciformes,Pomacentridae,Abudefduf,Abudefduf_vaigiensis,1,1,1,15
+4,Acanthurus achilles,Perciformes,Acanthuridae,Acanthurus ,Acanthurus_achilles,1,1,0,18
+5,Acanthurus blochii,Perciformes,Acanthuridae,Acanthurus ,Acanthurus_blochii,1,1,2,50
+6,Acanthurus dussumieri,Perciformes,Acanthuridae,Acanthurus ,Acanthurus_dussumieri,1,1,4,131
+7,Acanthurus guttatus,Perciformes,Acanthuridae,Acanthurus ,Acanthurus_guttatus,1,1,1,6
+8,Acanthurus leucopareius,Perciformes,Acanthuridae,Acanthurus ,Acanthurus_leucopareius,1,0,1,85
+9,Acanthurus lineatus,Perciformes,Acanthuridae,Acanthurus ,Acanthurus_lineatus,1,1,0,15
+11,Acanthurus nigricans,Perciformes,Acanthuridae,Acanthurus ,Acanthurus_nigricans,1,1,0,67
+12,Acanthurus nigrofuscus,Perciformes,Acanthuridae,Acanthurus ,Acanthurus_nigrofuscus,1,1,0,25
+13,Acanthurus nigroris,Perciformes,Acanthuridae,Acanthurus ,Acanthurus_nigroris,1,1,1,90
+14,Acanthurus olivaceus,Perciformes,Acanthuridae,Acanthurus ,Acanthurus_olivaceus,1,1,3,83
+15,Acanthurus thompsoni,Perciformes,Acanthuridae,Acanthurus ,Acanthurus_thompsoni,1,1,4,119
+16,Acanthurus triostegus,Perciformes,Acanthuridae,Acanthurus ,Acanthurus_triostegus,1,1,0,90
+17,Acanthurus xanthopterus,Perciformes,Acanthuridae,Acanthurus ,Acanthurus_xanthopterus,1,1,1,120
+18,Aluterus scriptus,Tetraodontiformes,Monacanthidae,Aluterus,Aluterus_scriptus,1,1,3,120
+19,Amblycirrhitus bimacula,Perciformes,Cirrhitidae,Amblycirrhitus,Amblycirrhitus_bimacula,1,1,0,20
+20,Anampses chrysocephalus,Perciformes,Labridae,Anampses,Anampses_chrysocephalus,1,1,12,139
+21,Anampses cuvier,Perciformes,Labridae,Anampses,Anampses_cuvier,1,1,2,26
+22,Aphareus furca,Perciformes,Lutjanidae ,Aphareus,Aphareus_furca,1,1,1,302
+23,Apolemichthys arcuatus,Perciformes,Apogonidae ,Apolemichthys,Apolemichthys_arcuatus,1,0,10,183
+24,Aprion virescens,Perciformes,Lutjanidae ,Aprion,Aprion_virescens,1,1,0,120
+25,Arothron hispidus,Tetraodontiformes,Tetaodontidae ,Arothron,Arothron_hispidus,1,1,1,50
+26,Arothron meleagris,Tetraodontiformes,Tetraodontidae ,Arothron,Arothron_meleagris,1,1,3,24
+27,Aulostomus chinensis,Sygnathiformes ,Aulostomidae ,Aulostomus,Aulostomus_chinensis,1,1,0,200
+28,Bodianus albotaeniatus,Perciformes,Labridae,Bodianus,Bodianus_albotaeniatus,1,0,8,200
+29,Bothus mancus,Pleuronectiformes,Bothidae,Bothus,Bothus_mancus,1,1,1,256
+30,Brotula multibarbata,Ophidiiformes,Ophidiidae ,Brotula,Brotula_multibarbata,1,1,0,650
+31,Calotomus carolinus,Perciformes,Scaridae ,Calotomus,Calotomus_carolinus,1,1,2,30
+32,Calotomus zonarchus,Perciformes,Scaridae ,Calotomus,Calotomus_zonarchus,1,1,12,170
+33,Cantherhines dumerilii,Tetraodontiformes,Monacanthidae,Cantherhines,Cantherhines_dumerilii,1,1,6,70
+34,Cantherhines sandwichiensis,Tetraodontiformes,Monacanthidae,Cantherhines,Cantherhines_sandwichiensis,1,1,2,73
+35,Cantherhines verecundus,Tetraodontiformes,Monacanthidae,Cantherhines,Cantherhines_verecundus,1,1,14,92
+36,Canthigaster amboinensis,Tetraodontiformes,Tetraodontidae ,Canthigaster,Canthigaster_amboinensis,1,1,1,10
+37,Canthigaster coronata,Tetraodontiformes,Tetraodontidae ,Canthigaster,Canthigaster_coronata,1,1,6,165
+38,Canthigaster epilampra,Tetraodontiformes,Tetraodontidae ,Canthigaster,Canthigaster_epilampra,1,0,6,90
+39,Canthigaster jactator,Tetraodontiformes,Tetraodontidae ,Canthigaster,Canthigaster_jactator,1,1,1,89
+40,Caracanthus typicus,Scorpaeniformes,Scorpaenidae,Caracanthus,Caracanthus_typicus,1,0,0,25
+41,Carangoides ferdau,Carangiformes,Carangidae ,Carangoides,Carangoides_ferdau,1,1,1,60
+42,Carangoides orthogrammus,Carangiformes,Carangidae ,Carangoides,Carangoides_orthogrammus,1,1,3,168
+43,Caranx ignobilis,Tetraodontiformes,Tetraodontidae ,Caranx,Caranx_ignobilis,1,1,10,188
+44,Caranx lugubris,Tetraodontiformes,Tetraodontidae ,Caranx,Caranx_lugubris,1,1,3,380
+45,Caranx melampygus,Tetraodontiformes,Tetraodontidae ,Caranx,Caranx_melampygus,1,1,1,190
+46,Caranx sexfasciatus,Tetraodontiformes,Tetraodontidae ,Caranx,Caranx_sexfasciatus,1,1,0,146
+47,Centropyge fisheri,Perciformes,Pomacanthidae ,Centropyge,Centropyge_fisheri,1,0,3,60
+48,Centropyge interruptus,Perciformes,Pomacanthidae ,Centropyge,Centropyge_interrupta,1,0,15,60
+49,Centropyge loricula,Perciformes,Pomacanthidae ,Centropyge,Centropyge_loriculus,1,1,15,60
+50,Centropyge potteri,Perciformes,Pomacanthidae ,Centropyge,Centropyge_potteri,1,1,10,120
+51,Chaetodon auriga,Perciformes,Chaetodontidae ,Chaetodon,Chaetodon_auriga,1,1,1,61
+52,Chaetodon citrinellus,Perciformes,Chaetodontidae ,Chaetodon,Chaetodon_citrinellus,1,1,1,36
+53,Chaetodon ephippium,Perciformes,Chaetodontidae ,Chaetodon,Chaetodon_ephippium,1,1,1,30
+54,Chaetodon fremblii,Perciformes,Chaetodontidae ,Chaetodon,Chaetodon_fremblii,1,1,1,128
+55,Chaetodon kleinii,Perciformes,Chaetodontidae ,Chaetodon,Chaetodon_kleinii,1,1,2,61
+56,Chaetodon lineolatus,Perciformes,Chaetodontidae ,Chaetodon,Chaetodon_lineolatus,1,1,2,171
+57,Chaetodon lunula,Perciformes,Chaetodontidae ,Chaetodon,Chaetodon_lunula,1,1,1,60
+58,Chaetodon lunulatus,Perciformes,Chaetodontidae ,Chaetodon,Chaetodon_lunulatus,1,1,1,25
+59,Chaetodon miliaris,Perciformes,Chaetodontidae ,Chaetodon,Chaetodon_miliaris,1,1,0,250
+60,Chaetodon multicinctus,Perciformes,Chaetodontidae ,Chaetodon,Chaetodon_multicinctus,1,1,5,114
+61,Chaetodon ornatissimus,Perciformes,Chaetodontidae ,Chaetodon,Chaetodon_ornatissimus,1,1,1,36
+62,Chaetodon quadrimaculatus,Perciformes,Chaetodontidae ,Chaetodon,Chaetodon_quadrimaculatus,1,1,2,43
+63,Chaetodon reticulatus,Perciformes,Chaetodontidae ,Chaetodon,Chaetodon_reticulatus,1,1,1,30
+64,Chaetodon tinkeri,Perciformes,Chaetodontidae ,Chaetodon,Chaetodon_tinkeri,1,1,6,160
+65,Chaetodon trifascialis,Perciformes,Chaetodontidae ,Chaetodon,Chaetodon_trifascialis,1,1,2,30
+66,Chaetodon unimaculatus,Perciformes,Chaetodontidae ,Chaetodon,Chaetodon_unimaculatus,1,1,1,60
+67,Cheilio inermis,Perciformes,Labridae,Cheilio,Cheilio_inermis,1,1,0,30
+68,Chlorurus perspicillatus,Perciformes,Scaridae ,Chlorurus,Chlorurus_perspicillatus,1,0,1,71
+69,Chlorurus spilurus,Perciformes,Scaridae ,Chlorurus,Chlorurus_spilurus,1,1,1,30
+70,Cirrhilabrus jordani,Perciformes,Labridae,Cirrhilabrus,Cirrhilabrus_jordani,1,0,12,186
+71,Cirrhitops fasciatus,Perciformes,Cirrhitidae,Cirrhitops,Cirrhitops_fasciatus,1,0,1,52
+72,Cirrhitus pinnulatus,Perciformes,Cirrhitidae,Cirrhitus,Cirrhitus_pinnulatus,1,1,1,23
+73,Cirripectes obscurus,Perciformes,Blenniidae ,Cirripectes,Cirripectes_obscurus,1,0,0,6
+74,Cirripectes vanderbilti,Perciformes,Blenniidae ,Cirripectes,Cirripectes_vanderbilti,1,0,1,11
+75,Coris ballieui,Perciformes,Labridae,Coris,Coris_ballieui,1,0,10,108
+76,Coris flavovittata,Perciformes,Labridae,Coris,Coris_flavovittata,1,1,1,98
+77,Coris gaimard,Perciformes,Labridae,Coris,Coris_gaimard,1,1,1,50
+78,Coris venusta,Perciformes,Labridae,Coris,Coris_venusta,1,0,2,10
+79,Ctenochaetus hawaiiensis,Perciformes,Acanthuridae,Ctenochaetus,Ctenochaetus_hawaiiensis,1,1,1,61
+80,Ctenochaetus strigosus,Perciformes,Acanthuridae,Ctenochaetus,Ctenochaetus_strigosus,1,1,1,113
+81,Cymolutes lecluse,Perciformes,Labridae,Cymolutes,Cymolutes_lecluse,1,0,5,119
+82,Cymolutes praetextatus,Perciformes,Labridae,Cymolutes,Cymolutes_praetextatus,1,1,1,27
+83,Dendrochirus barberi,Scorpaeniformes,Scorpaenidae,Dendrochirus,Dendrochirus_barberi,1,0,0,134
+84,Diodon holocanthus,Tetraodontiformes,Diodontidae,Diodon,Diodon_holocanthus,1,1,2,100
+85,Diodon hystrix,Tetraodontiformes,Diodontidae,Diodon,Diodon_hystrix,1,1,2,50
+86,Echidna nebulosa,Anguilliformes,Muraenidae,Echidna ,Echidna_nebulosa,1,1,1,48
+87,Enchelycore pardalis,Anguilliformes,Muraenidae,Enchelycore,Enchelycore_pardalis,1,0,8,60
+88,Entomacrodus marmoratus,Perciformes,Blenniidae ,Entomacrodus,Entomacrodus_marmoratus,1,0,0,6
+89,Epibulus insidiator,Perciformes,Blenniidae ,Epibulus,Epibulus_insidiator,1,1,1,42
+90,Exallias brevis,Perciformes,Blenniidae ,Exallias,Exallias_brevis,1,0,3,20
+91,Fistularia commersonii,Sygnathiformes ,Fistulariidae,Fistularia,Fistularia_commersonii,1,1,0,132
+92,Forcipiger flavissimus,Perciformes,Chaetodontidae ,Forcipiger,Forcipiger_flavissimus,1,1,2,145
+93,Forcipiger longirostris,Perciformes,Chaetodontidae ,Forcipiger,Forcipiger_longirostris,1,1,2,208
+94,Genicanthus personatus,Perciformes,Pomacanthidae ,Genicanthus,Genicanthus_personatus,1,0,10,150
+95,Gomphosus varius,Perciformes,Labridae,Gomphosus,Gomphosus_varius,1,1,1,32
+96,Gunnellichthys curiosus,Perciformes,Microdesmidae,Gunnellichthys,Gunnellichthys_curiosus,1,0,0,60
+97,Gymnomuraena zebra,Anguilliformes,Muraenidae,Gymnomuaena,Gymnomuraena_zebra,1,1,3,50
+98,Gymnothorax eurostus,Anguilliformes,Muraenidae,Gymnothorax,Gymnothorax_eurostus,1,1,0,74
+99,Gymnothorax flavimarginatus,Anguilliformes,Muraenidae,Gymnothorax,Gymnothorax_flavimarginatus,1,1,1,150
+100,Gymnothorax javanicus,Anguilliformes,Muraenidae,Gymnothorax,Gymnothorax_javanicus,1,1,0,50
+101,Gymnothorax melatremus,Anguilliformes,Muraenidae,Gymnothorax,Gymnothorax_melatremus,1,1,1,58
+102,Gymnothorax meleagris,Anguilliformes,Muraenidae,Gymnothorax,Gymnothorax_meleagris,1,1,1,51
+103,Gymnothorax rueppelliae,Anguilliformes,Muraenidae,Gymnothorax,Gymnothorax_rueppelliae,1,1,1,40
+104,Gymnothorax steindachneri,Anguilliformes,Muraenidae,Gymnothorax,Gymnothorax_steindachneri,1,0,5,124
+105,Gymnothorax undulatus,Anguilliformes,Muraenidae,Gymnothorax,Gymnothorax_undulatus,1,1,9,110
+106,Halichoeres ornatissimus,Perciformes,Labridae,Halichoeres,Halichoeres_ornatissimus,1,1,1,15
+107,Hemitaurichthys polylepis,Perciformes,Chaetodontidae ,Hemitaurichthys,Hemitaurichthys_polylepis,1,1,3,60
+108,Hemitaurichthys thompsoni,Perciformes,Chaetodontidae ,Hemitaurichthys,Hemitaurichthys_thompsoni,1,1,4,300
+109,Heniochus diphreutes,Perciformes,Chaetodontidae ,Heniochus,Heniochus_diphreutes,1,1,5,210
+110,Heteropriacanthus cruentatus,Perciformes,Priacanthidae,Heteropriacanthus,Heteropriacanthus_cruentatus,1,1,3,300
+111,Hyporthodus quernus,Perciformes,Serranidae ,Hyporthodus,Hyporthodus_quernus,1,1,20,380
+112,Iniistius aneitensis,Perciformes,Labridae,Iniistius,Iniistius_aneitensis,1,1,12,92
+113,Iniistius pavo,Perciformes,Labridae,Iniistius,Iniistius_pavo,1,1,2,100
+114,Iniistius umbrilatus,Perciformes,Labridae,Iniistius,Iniistius_umbrilatus,1,0,6,76
+115,Kyphosus cinerascens,Perciformes,Kyphosidae,Kyphosus,Kyphosus_cinerascens,1,1,1,40
+116,Labroides phthirophagus,Perciformes,Labridae,Labroides,Labroides_phthirophagus,1,1,1,90
+117,Lutjanus kasmira,Perciformes,Lutjanidae ,Lutjanus,Lutjanus_kasmira,1,1,0.100000001,265
+118,Macropharyngodon geoffroy,Perciformes,Labridae,Macropharyngodon,Macropharyngodon_geoffroy,1,1,6,32
+119,Melichthys niger,Tetraodontiformes,Balistidae ,Melichthys,Melichthys_niger,1,1,0,75
+120,Monotaxis grandoculis,Perciformes,Lethrinidae,Monotaxi,Monotaxis_grandoculis,1,1,3,60
+121,Mulloidichthys flavolineatus,Perciformes,Mullidae,Mulloidichthys,Mulloidichthys_flavolineatus,1,1,1,97
+122,Mulloidichthys mimicus,Perciformes,Mullidae,Mulloidichthys,Mulloidichthys_mimicus,1,0,12,15
+123,Mulloidichthys pfluegeri,Perciformes,Mullidae,Mulloidichthys,Mulloidichthys_pfluegeri,1,0,13,110
+124,Mulloidichthys vanicolensis,Perciformes,Mullidae,Mulloidichthys,Mulloidichthys_vanicolensis,1,1,1,113
+125,Myripristis amaena,Beryciformes,Holocentridae ,Myripristis,Myripristis_amaena,1,1,5,52
+126,Myripristis berndti,Beryciformes,Holocentridae ,Myripristis,Myripristis_berndti,1,1,3,160
+127,Myripristis chryseres,Beryciformes,Holocentridae ,Myripristis,Myripristis_chryseres,1,1,12,350
+128,Myripristis kuntee,Beryciformes,Holocentridae ,Myripristis,Myripristis_kuntee,1,1,2,55
+129,Myripristis vittata,Beryciformes,Holocentridae ,Myripristis,Myripristis_vittata,1,1,3,80
+130,Naso annulatus,Perciformes,Acanthuridae,Naso,Naso_annulatus,1,1,1,60
+131,Naso brevirostris,Perciformes,Acanthuridae,Naso,Naso_brevirostris,1,1,2,122
+132,Naso caesius,Perciformes,Acanthuridae,Naso,Naso_caesius,1,1,3,50
+133,Naso hexacanthus,Perciformes,Acanthuridae,Naso,Naso_hexacanthus,1,1,6,229
+134,Naso lituratus,Perciformes,Acanthuridae,Naso,Naso_lituratus,1,1,0,90
+135,Naso maculatus,Perciformes,Acanthuridae,Naso,Naso_maculatus,1,1,20,220
+136,Naso unicornis,Perciformes,Acanthuridae,Naso,Naso_unicornis,1,1,0,80
+137,Nemateleotris magnifica,Perciformes,Microdesmidae,Nemateleotris,Nemateleotris_magnifica,1,1,6,61
+138,Neoniphon aurolineatus,Beryciformes,Holocentridae ,Neoniphon,Neoniphon_aurolineatus,1,1,30,160
+139,Neoniphon sammara,Beryciformes,Holocentridae ,Neoniphon,Neoniphon_sammara,1,1,1,46
+140,Novaculichthys taeniourus,Perciformes,Labridae,Novaculichthys,Novaculichthys_taeniourus,1,1,1,35
+141,Oxycheilinus bimaculatus,Perciformes,Labridae,Oxycheilinus,Oxycheilinus_bimaculatus,1,1,2,110
+142,Oxycheilinus unifasciatus,Perciformes,Labridae,Oxycheilinus,Oxycheilinus_unifasciatus,1,1,1,161
+143,Oxycirrhites typus,Perciformes,Cirrhitidae,Oxycirrhites,Oxycirrhites_typus,1,0,10,100
+144,Paracirrhites arcatus,Perciformes,Cirrhitidae,Paracirrhites,Paracirrhites_arcatus,1,1,1,91
+145,Paracirrhites forsteri,Perciformes,Cirrhitidae,Paracirrhites,Paracirrhites_forsteri,1,1,1,35
+146,Parupeneus chrysonemus,Perciformes,Mullidae,Parupeneus,Parupeneus_chrysonemus,1,1,20,183
+147,Parupeneus cyclostomus,Perciformes,Mullidae,Parupeneus,Parupeneus_cyclostomus,1,1,2,125
+148,Parupeneus insularis,Perciformes,Mullidae,Parupeneus,Parupeneus_insularis,1,1,1,80
+149,Parupeneus multifasciatus,Perciformes,Mullidae,Parupeneus,Parupeneus_multifasciatus,1,1,3,161
+150,Parupeneus pleurostigma,Perciformes,Mullidae,Parupeneus,Parupeneus_pleurostigma,1,1,1,120
+151,Parupeneus porphyreus,Perciformes,Mullidae,Parupeneus,Parupeneus_porphyreus,1,0,2,140
+152,Pervagor aspricaudus,Tetraodontiformes,Monacanthidae,Pervagor,Pervagor_aspricaudus,1,0,0,25
+153,Pervagor spilosoma,Tetraodontiformes,Monacanthidae,Pervagor,Pervagor_spilosoma,1,0,6,138
+154,Plagiotremus ewaensis,Perciformes,Blenniidae ,Plagiotremus,Plagiotremus_ewaensis,1,0,2,55
+155,Plagiotremus goslinei,Perciformes,Blenniidae ,Plagiotremus,Plagiotremus_goslinei,1,0,1,15
+156,Priacanthus meeki,Perciformes,Priacanthidae,Priacanthus,Priacanthus_meeki,1,1,3,275
+157,Pristilepis oligolepis,Beryciformes,Holocentridae ,Pristilepis,Pristilepis_oligolepis,1,0,9,348
+158,Pseudanthias bicolor,Perciformes,Serranidae ,Pseudanthias,Pseudanthias_bicolor,1,0,5,104
+159,Pseudanthias thompsoni,Perciformes,Serranidae ,Pseudanthias,Pseudanthias_thompsoni,1,0,5,190
+160,Pseudocheilinus evanidus,Perciformes,Labridae,Pseudocheilinus,Pseudocheilinus_evanidus,1,1,3,143
+161,Pseudocheilinus octotaenia,Perciformes,Labridae,Pseudocheilinus,Pseudocheilinus_octotaenia,1,1,2,50
+162,Pseudocheilinus tetrataenia,Perciformes,Labridae,Pseudocheilinus,Pseudocheilinus_tetrataenia,1,1,6,44
+163,Pseudojuloides cerasinus,Perciformes,Labridae,Pseudojuloides,Pseudojuloides_cerasinus,1,1,3,61
+164,Ptereleotris heteroptera,Perciformes,Microdesmidae,Ptereleotris,Ptereleotris_heteroptera,1,1,5,46
+165,Pterois sphex,Scorpaeniformes,Scorpaenidae,Pterois,Pterois_sphex,1,0,3,124
+166,Sargocentron diadema,Beryciformes,Holocentridae ,Sargocentron,Sargocentron_diadema,1,1,1,60
+167,Sargocentron ensifer,Beryciformes,Holocentridae ,Sargocentron,Sargocentron_ensifer,1,0,1,64
+168,Sargocentron punctatissimum,Beryciformes,Holocentridae ,Sargocentron,Sargocentron_punctatissimum,1,1,1,183
+169,Sargocentron spiniferum,Beryciformes,Holocentridae ,Sargocentron,Sargocentron_spiniferum,1,1,1,122
+170,Sargocentron tiere,Beryciformes,Holocentridae ,Sargocentron,Sargocentron_tiere,1,1,1,183
+171,Sargocentron xantherythrum,Beryciformes,Holocentridae ,Sargocentron,Sargocentron_xantherythrum,1,1,1,217
+172,Saurida flamma,Aulopiformes ,Synodontidae,Saurida,Saurida_flamma,1,0,5,30
+173,Saurida gracilis,Aulopiformes ,Synodontidae,Saurida,Saurida_gracilis,1,1,1,12
+174,Scarus dubius,Perciformes,Scaridae ,Scarus,Scarus_dubius,1,1,1,20
+175,Scarus psittacus,Perciformes,Scaridae ,Scarus,Scarus_psittacus,1,1,2,30
+176,Scarus rubroviolaceus,Perciformes,Scaridae ,Scarus,Scarus_rubroviolaceus,1,1,1,36
+177,Scomberoides lysan,Carangiformes,Carangidae ,Scomberoides,Scomberoides_lysan,1,1,1,100
+178,Scorpaenodes parvipinnis,Scorpaeniformes,Scorpaenidae,Scorpaenodes,Scorpaenodes_parvipinnis,1,1,1,46
+179,Scorpaenopsis cacopsis,Scorpaeniformes,Scorpaenidae,Scorpaenopsis,Scorpaenopsis_cacopsis,1,0,4,61
+180,Scorpaenopsis diabolus,Scorpaeniformes,Scorpaenidae,Scorpaenopsis,Scorpaenopsis_diabolus,1,1,2,70
+181,Scuticaria tigrina,Anguilliformes,Muraenidae,Scuticaria ,Scuticaria_tigrina,1,1,8,25
+182,Sebastapistes ballieui,Scorpaeniformes,Scorpaenidae,Sebastapistes,Sebastapistes_ballieui,1,0,1,11
+183,Sebastapistes coniorta,Scorpaeniformes,Scorpaenidae,Sebastapistes,Sebastapistes_coniorta,1,0,1,33
+184,Seriola dumerili,Perciformes,Carangidae ,Seriola,Seriola_dumerili,1,1,10,360
+185,Stethojulis balteata,Perciformes,Labridae,Stethojulis,Stethojulis_balteata,1,1,2,15
+186,Sufflamen fraenatum,Tetraodontiformes,Balistidae ,Sufflamen,Sufflamen_fraenatum,1,1,13,200
+187,Synodus binotatus,Aulopiformes ,Synodontidae,Synodus,Synodus_binotatus,1,1,1,30
+188,Synodus dermatogenys,Aulopiformes ,Synodontidae,Synodus,Synodus_dermatogenys,1,1,1,70
+189,Synodus ulae,Aulopiformes ,Synodontidae,Synodus,Synodus_ulae,1,1,1,121
+190,Synodus variegatus,Aulopiformes ,Synodontidae,Synodus,Synodus_variegatus,1,1,3,121
+191,Taenianotus triacanthus,Scorpaeniformes,Scorpaenidae,Taenianotus,Taenianotus_triacanthus,1,1,0,135
+192,Thalassoma ballieui,Perciformes,Labridae,Thalassoma,Thalassoma_ballieui,1,1,1,60
+193,Thalassoma duperrey,Perciformes,Labridae,Thalassoma,Thalassoma_duperrey,1,1,1,21
+194,Thalassoma lutescens,Perciformes,Labridae,Thalassoma,Thalassoma_lutescens,1,1,1,30
+195,Thalassoma purpureum,Perciformes,Labridae,Thalassoma,Thalassoma_purpureum,1,1,1,20
+196,Thalassoma quinquevittatum,Perciformes,Labridae,Thalassoma,Thalassoma_quinquevittatum,1,1,1,40
+197,Thalassoma trilobatum,Perciformes,Labridae,Thalassoma,Thalassoma_trilobatum,1,1,1,10
+198,Xanthichthys mento,Tetraodontiformes,Balistidae ,Xanthichthys,Xanthichthys_mento,1,1,6,131
+199,Zanclus cornutus,Perciformes,Zanclidae,Zanclus,Zanclus_cornutus,1,1,1,180
+200,Zebrasoma flavescens,Perciformes,Acanthuridae,Zebrasoma,Zebrasoma_flavescens,1,1,1,81
+201,Zebrasoma veliferum,Perciformes,Acanthuridae,Zebrasoma,Zebrasoma_velifer,1,1,1,30
