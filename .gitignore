@@ -3,3 +3,8 @@
 .RData
 .Ruserdata
 /data
+./Rapp.history
+/scripts/filtering_depth
+Rplot.png
+/scripts/implementing_endemicr
+
